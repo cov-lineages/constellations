@@ -1,0 +1,5 @@
+id,gene,aa_location,nuc_location,type,reference,variants,category,nickname,references
+s:D614G,spike,614,,replacement,D,G,transmission,Doug,
+s:N501Y,spike,501,,replacement,N,Y,RBD,Nelly,
+s:E484K,spike,484,,replacement,E,K,RBD,Erik,
+s:N439K,spike,439,,replacement,N,K,RBD,Nick,
