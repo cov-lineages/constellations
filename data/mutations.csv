@@ -1,7 +1,7 @@
 id,gene,aa_location,nuc_location,type,reference,variants,category,nickname,barcode_pos,date_added,references
-s:D614G,spike,614,,replacement,D,G,transmission,Doug,0,2021-01-19,
-s:N501Y,spike,501,,replacement,N,Y,RBD,Nelly,1,2021-01-19,
-s:E484K,spike,484,,replacement,E,K,RBD,Erik,2,2021-01-19,
-s:P681H,spike,681,,replacement,P,H|R,FCS,Pooh,3,2021-01-19,
-s:N439K,spike,439,,replacement,N,K,RBD,Nick,4,2021-01-19,
+s:D614G,spike,614,23402,replacement,D,G,transmission,Doug,0,2021-01-19,
+s:N501Y,spike,501,23063,replacement,N,Y,RBD,Nelly,1,2021-01-19,
+s:E484K,spike,484,23012,replacement,E,K,RBD,Erik,2,2021-01-19,
+s:P681H,spike,681,23603,replacement,P,H|R,FCS,Pooh,3,2021-01-19,
+s:N439K,spike,439,22877,replacement,N,K,RBD,Nick,4,2021-01-19,
 s:69-70del,spike,69,21765,deletion,0,6,NTD,,5,2021-01-19,
