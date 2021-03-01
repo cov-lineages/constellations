@@ -1,5 +1,30 @@
 {
-  "name": "B.1.1.7",
-  "description": "B.1.1.7 lineage defining mutations",
-  "sites": ["1:1001","1:1708","1:2230","1:11288-9","s:21765-6","s:21991-3","s:501","s:570","s:681","s:716","s:983","s:1118","8:27","8:52","8:73":"N:3","N:235"]
+	"name": "B.1.1.7",
+	"description": "B.1.1.7 lineage defining mutations",
+	"citation": "https://virological.org/t/563",
+	"sites": [
+		"nuc:C913T",
+		"1ab:T1001I",
+		"1ab:A1708D",
+		"nuc:C5986T",
+		"1ab:I2230T",
+		"1ab:SGF3675-",
+		"nuc:C14676T",
+		"nuc:C15279T",
+		"nuc:C16176T",
+		"s:HV69-",
+		"s:Y144-",
+		"s:N501Y",
+		"s:A570D",
+		"s:P681H",
+		"s:T716I",
+		"s:S982A",
+		"s:D1118H",
+		"nuc:T26801C",
+		"8:Q27*",
+		"8:R52I",
+		"8:Y73C",
+		"N:D3L",
+		"N:S235F"
+	]
 }

@@ -1,5 +1,30 @@
 {
   "name": "B.1.351",
-  "description": "B.1.351 lineage defining mutations",
-  "sites": [... "1:11288-9",... "s:501",...]
+  "description": "B.1.351 lineage associated mutations",
+  "citation": "https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1",
+  "sites": [
+		"nuc:G174T",
+		"1ab:T265I",
+		"1ab:K1655N",
+		"1ab:H2799Y",
+		"1ab:S2900L",
+		"1ab:K3353R",
+		"1ab:SGF3675-",
+		"1ab:D4527Y",
+		"nuc:C17999T",
+		"s:L18F",
+		"s:D80A",
+		"s:D215G",
+		"s:LLA242-",
+		"s:R246I",
+		"s:K417N",
+		"s:E484K",
+		"s:N501Y",
+		"s:A701V",
+		"3a:Q57H",
+		"3a:S171L",
+		"E:P71L",
+		"nuc:C28253T",
+		"N:T205I",
+  ]
 }
