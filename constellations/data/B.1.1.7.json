@@ -27,6 +27,8 @@
 		"N:D3L",
 		"N:S235F"
 	],
-	"min_alt": 4,
-	"max_ref": 6
+	"rules": {
+		"min_alt": 4,
+		"max_ref": 6
+	}
 }

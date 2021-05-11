@@ -27,5 +27,7 @@
 		"nuc:A28877T",
 		"nuc:G28878C"
 	],
-        "min_alt": 10
+	"rules": {
+		"min_alt": 10
+	}
 }

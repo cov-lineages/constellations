@@ -27,6 +27,8 @@
 		"nuc:C28253T",
 		"N:T205I"
   ],
-        "min_alt": 4,
+	"rules":{
+		"min_alt": 4,
         "max_ref": 2
+	}
 }
