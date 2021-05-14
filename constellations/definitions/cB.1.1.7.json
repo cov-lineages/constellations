@@ -1,0 +1,49 @@
+{
+	"name": "cB.1.1.7",
+	"description": "B.1.1.7 lineage defining mutations",
+	"sources": [
+		"https://virological.org/t/563"
+	],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VOC-20-DEC-01",
+        "who-label": "alpha",
+        "pango-lineages": [
+            "B.1.1.7"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "B.1.1.7",
+        "VOC 202012/01"
+    ],
+	"sites": [
+		"nuc:C912T",
+		"1ab:T1001I",
+		"1ab:A1708D",
+		"nuc:C5986T",
+		"1ab:I2230T",
+		"1ab:SGF3675-",
+		"nuc:C14676T",
+		"nuc:C15279T",
+		"nuc:C16175T",
+		"s:HV69-",
+		"s:Y144-",
+		"s:N501Y",
+		"s:A570D",
+		"s:P681H",
+		"s:T716I",
+		"s:S982A",
+		"s:D1118H",
+		"nuc:T2680C",
+		"8:Q27*",
+		"8:R52I",
+		"8:Y73C",
+		"N:D3L",
+		"N:S235F"
+	],
+	"rules": {
+		"min_alt": 4,
+		"max_ref": 6
+	}
+}
