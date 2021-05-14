@@ -1,0 +1,34 @@
+{
+    "label": "cP.2",
+    "description": "Defining constellation for lineage P.2",
+    "sources": [
+        null
+    ],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VUI-21JAN-01",
+        "pango-lineages": [
+            "P.2"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "P.2",
+        "VUI-21JAN-01",
+        "marbling-doodle",
+        "VUI202101/01"
+    ],
+    "sites": [
+        "ORF1ab:L205V",
+        "nuc:C11824T",
+        "S:E484K",
+        "nuc:A12964G",
+        "nuc:C28253T",
+        "N:A119S",
+        "N:M234I"
+    ],
+    "rules": {
+        "min_alt": 6,
+        "max_ref": 6
+    }
+}

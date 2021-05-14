@@ -1,0 +1,44 @@
+{
+    "label": "cP.1",
+    "description": "Defining constellation for lineage P.1",
+    "sources": [
+        "https://virological.org/t/586",
+        "https://cov-lineages.org/global_report_P.1.html"
+    ],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VOC-21JAN-02",
+        "pango-lineages": [
+            "P.1"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "P.1",
+        "VOC-21JAN-02",
+        "slinky-antennae",
+        "VOC202101/02"
+    ],
+    "sites": [
+        "nuc:T733C",
+        "nuc:C2749T",
+        "ORF1ab:S370L",
+        "ORF1ab:K977Q",
+        "del:11287:9",
+        "nuc:C12778T",
+        "nuc:C13860T",
+        "S:T20N",
+        "S:P26S",
+        "S:K417T",
+        "S:E484K",
+        "S:N501Y",
+        "S:T1027I",
+        "ORF8:E92K",
+        "nuc:28262+AACA",
+        "N:P80R"
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 16
+    }
+}

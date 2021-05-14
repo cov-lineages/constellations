@@ -1,0 +1,45 @@
+{
+    "label": "cP.3",
+    "description": "Defining constellation for lineage P.3",
+    "sources": [
+        "https://github.com/cov-lineages/pango-designation/issues/27",
+        "https://www.medrxiv.org/content/10.1101/2021.03.03.21252812v2"
+    ],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VUI-21MAR-02",
+        "pango-lineages": [
+            "P.3"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "P.3",
+        "VUI-21MAR-02",
+        "mushroom-android",
+        "VUI202103/02"
+    ],
+    "sites": [
+        "ORF1ab:D736G",
+        "ORF1ab:L438P",
+        "ORF1ab:D112E",
+        "ORF1ab:L71F",
+        "ORF1ab:A368V",
+        "del:21980:9",
+        "S:E484K",
+        "S:N501Y",
+        "S:P681H",
+        "S:E1092K",
+        "S:H1101Y",
+        "S:V1176F",
+        "ORF8:K2Q",
+        "nuc:C7564A",
+        "nuc:C12049T",
+        "nuc:T23341C",
+        "nuc:T24187A"
+    ],
+    "rules": {
+        "min_alt": 7,
+        "max_ref": 17
+    }
+}

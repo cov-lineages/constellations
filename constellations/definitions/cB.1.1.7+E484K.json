@@ -1,0 +1,33 @@
+{
+    "label": "cB.1.1.7+E484K",
+    "description": "This is a variant of cB.1.1.7 that additionally contains E484K",
+    "sources": [
+        null
+    ],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VOC-21FEB-02",
+        "pango-lineages": [
+            "B.1.1.7"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "B.1.1.7",
+        "VOC-21FEB-02",
+        "unloved-crouton",
+        "VOC202102/02",
+        "VOC1 + E484K"
+    ],
+    "sites": [
+        "nuc:C7843T",
+        "S:E484K",
+        "nuc:C27092T",
+        "N:A173V",
+        "N:A398T"
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 5
+    }
+}

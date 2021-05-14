@@ -1,0 +1,43 @@
+{
+    "label": "cB.1.525",
+    "description": "This variant is a cluster of E484K containing genomes",
+    "sources": [
+        null
+    ],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VUI-21FEB-03",
+        "pango-lineages": [
+            "B.1.525"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "B.1.525",
+        "VUI-21FEB-03",
+        "glorious-saucy",
+        "VUI202102/03"
+    ],
+    "sites": [
+        "nuc:C1498T",
+        "nuc:A1807G",
+        "nuc:T8593C",
+        "nuc:C9565T",
+        "ORF1ab:P323F",
+        "nuc:C18171T",
+        "nuc:A20724G",
+        "S:Q52R",
+        "S:E484K",
+        "S:Q677H",
+        "S:F888L",
+        "nuc:C24748T",
+        "E:L21F",
+        "M:I82T",
+        "nuc:A28699G",
+        "nuc:G29543T"
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 16
+    }
+}

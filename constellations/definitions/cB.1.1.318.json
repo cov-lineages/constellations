@@ -1,0 +1,48 @@
+{
+    "label": "cB.1.1.318",
+	"description": "Defining of lineage B.1.1.318",
+	"sources": [
+		"https://github.com/cov-lineages/pango-designation/issues/15"
+	],
+    "type": "variant", 
+    "variant": {
+		"phe-label": "VUI-21FEB-04",
+		"who-label": null,
+		"pango-lineages": [
+			"B.1.1.318"        
+		],
+		"representative-genome": ""
+    },
+	"tags": [
+		"B.1.1.318",
+		"VUI-21FEB-04",
+		"VUI202102/04",
+		"animating-thermos",
+		"Debbie"
+	],
+    "sites": [
+        "nuc:C3961T",
+        "ORF1ab:K1693N",
+        "ORF1ab:T173I",
+        "ORF1ab:A446V",
+        "ORF1ab:T21I",
+        "del:11287:9",
+        "ORF1ab:V320M",
+        "S:T95I",
+        "del:21990:3",
+        "S:E484K",
+        "nuc:T23287C",
+        "S:P681H",
+        "S:D796H",
+        "nuc:C25276A",
+        "M:I82T",
+        "del:27887:15",
+        "ORF8:E106*",
+        "nuc:A28271G",
+        "del:28895:3"
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 19
+    }
+}

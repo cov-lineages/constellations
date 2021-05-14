@@ -1,0 +1,36 @@
+{
+    "label": "cB.1.324.1",
+    "description": "First detected in the UK in a traveller from Antigua.",
+    "sources": [
+        "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/968581/Variants_of_Concern_VOC_Technical_Briefing_7_England.pdf"
+    ],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VUI-21MAR-01",
+        "pango-lineages": [
+            "B.1.324.1"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "B.1.324.1",
+        "VUI-21MAR-01",
+        "cornstalk-handprint",
+        "VUI202103/01"
+    ],
+    "sites": [
+        "ORF1ab:G76S",
+        "nuc:T8704C",
+        "nuc:C8986T",
+        "nuc:G13617A",
+        "ORF1ab:G206C",
+        "nuc:C22388T",
+        "S:E484K",
+        "del:27922:34",
+        "nuc:A28272T"
+    ],
+    "rules": {
+        "min_alt": 8,
+        "max_ref": 9
+    }
+}

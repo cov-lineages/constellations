@@ -1,0 +1,45 @@
+{
+    "label": "cB.1.351",
+	"description": "Defining of lineage B.1.351",
+	"sources": [
+		null
+	],
+    "type": "variant", 
+    "variant": {
+		"phe-label": "VOC-20DEC-02",
+		"who-label": "beta",
+		"pango-lineages": [
+			"B.1.351"        
+		],
+		"representative-genome": ""
+    },
+	"tags": [
+		"B.1.351",
+		"VOC-20DEC-02",
+		"VOC202012/02",
+		"carnival-shimmy",
+		"501.V2",
+		"20H/501Y.V2",
+		"GH"
+	],
+    "sites": [
+        "ORF1ab:T85I",
+        "ORF1ab:K837N",
+        "ORF1ab:K90R",
+        "S:D80A",
+        "S:D215G",
+        "S:E484K",
+        "S:N501Y",
+        "S:A701V",
+        "ORF3a:Q57H",
+        "ORF3a:S171L",
+        "E:P71L",
+        "N:T205I",
+        "del:22280:9",
+        "del:11287:9"
+    ],
+    "rules": {
+        "min_alt": 4,
+        "max_ref": 14
+    }
+}

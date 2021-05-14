@@ -1,0 +1,41 @@
+{
+    "label": "cA.23.1+E484K",
+    "description": "This is a variant within clade A.23.1 containing E484K",
+    "sources": [
+        null
+    ],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VUI-21FEB-01",
+		"who-label": null,
+        "pango-lineages": [
+            "A.23.1"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "A.23.1",
+        "VUI-21FEB-01",
+        "cheesy-styling",
+        "VUI202102/01"
+    ],
+    "sites": [
+        "ORF1ab:L741F",
+        "ORF1ab:M86I",
+        "ORF1ab:L98F",
+        "ORF1ab:M183I",
+        "S:R102I",
+        "S:F157L",
+        "S:V367F",
+        "S:E484K",
+        "S:Q613H",
+        "S:P681R",
+        "ORF8:L84S",
+        "ORF8:E92K",
+        "N:S202N"
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 13
+    }
+}

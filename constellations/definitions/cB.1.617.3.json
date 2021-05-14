@@ -1,0 +1,44 @@
+{
+    "label": "cB.1.617.3",
+    "description": "Defining constellation for lineage B.1.617.3",
+    "sources": [
+        "https://github.com/cov-lineages/pango-designation/issues/49"
+    ],
+    "type": "variant",
+    "variant": {
+        "phe-label": "VUI-21APR-03",
+        "pango-lineages": [
+            "B.1.617.3"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "B.1.617.3",
+        "VUI-21APR-03",
+        "spherical-trial",
+        "B.1.617 Clade 3"
+    ],
+    "sites": [
+        "nuc:C835T",
+        "ORF1ab:A1526V",
+        "ORF1ab:T1830I",
+        "ORF1ab:A194S",
+        "ORF1ab:A117V",
+        "nuc:C16293T",
+        "S:T19R",
+        "S:L452R",
+        "S:E484Q",
+        "S:P681R",
+        "S:D950N",
+        "nuc:T27384C",
+        "ORF7a:V82A",
+        "ORF8:T26I",
+        "N:P67S",
+        "N:R203M",
+        "N:D377Y"
+    ],
+    "rules": {
+        "min_alt": 8,
+        "max_ref": 17
+    }
+}
