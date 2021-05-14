@@ -2,7 +2,7 @@
     "label": "cB.1.351",
 	"description": "Defining of lineage B.1.351",
 	"sources": [
-		null
+		"https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
 	],
     "type": "variant", 
     "variant": {
