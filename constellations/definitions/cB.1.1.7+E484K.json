@@ -1,12 +1,11 @@
 {
     "label": "cB.1.1.7+E484K",
-    "description": "This is a variant of cB.1.1.7 that additionally contains E484K",
+    "description": "This is a variant of cB.1.1.7 that additionally contains E484K. This includes all independent instances of this.",
     "sources": [
         null
     ],
     "type": "variant",
     "variant": {
-        "phe-label": "VOC-21FEB-02",
         "pango-lineages": [
             "B.1.1.7"
         ],
@@ -14,20 +13,37 @@
     },
     "tags": [
         "B.1.1.7",
-        "VOC-21FEB-02",
-        "unloved-crouton",
-        "VOC202102/02",
         "VOC1 + E484K"
     ],
     "sites": [
-        "nuc:C7843T",
+		"nuc:C912T",
+		"1ab:T1001I",
+		"1ab:A1708D",
+		"nuc:C5986T",
+		"1ab:I2230T",
+		"1ab:SGF3675-",
+		"nuc:C14676T",
+		"nuc:C15279T",
+		"nuc:C16175T",
+		"s:HV69-",
+		"s:Y144-",
         "S:E484K",
-        "nuc:C27092T",
-        "N:A173V",
-        "N:A398T"
+		"s:N501Y",
+		"s:A570D",
+		"s:P681H",
+		"s:T716I",
+		"s:S982A",
+		"s:D1118H",
+		"nuc:T2680C",
+		"8:Q27*",
+		"8:R52I",
+		"8:Y73C",
+		"N:D3L",
+		"N:S235F"
     ],
     "rules": {
         "min_alt": 5,
-        "max_ref": 5
+        "max_ref": 4,
+        "S:E484K": "alt"
     }
 }
