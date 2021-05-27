@@ -23,9 +23,9 @@
 		"GH"
 	],
     "sites": [
-        "ORF1ab:T85I",
-        "ORF1ab:K837N",
-        "ORF1ab:K90R",
+        "ORF1ab:T265I",
+        "ORF1ab:K1655N",
+        "ORF1ab:K3353R",
         "S:D80A",
         "S:D215G",
         "S:E484K",
