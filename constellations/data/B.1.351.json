@@ -26,9 +26,5 @@
 		"E:P71L",
 		"nuc:C28253T",
 		"N:T205I"
-  ],
-	"rules":{
-		"min_alt": 4,
-        "max_ref": 2
-	}
+  ]
 }
