@@ -20,10 +20,10 @@
         "VUI202102/01"
     ],
     "sites": [
-        "ORF1ab:L741F",
-        "ORF1ab:M86I",
-        "ORF1ab:L98F",
-        "ORF1ab:M183I",
+        "nsp3:L741F",
+        "nsp6:M86I",
+        "nsp6:L98F",
+        "nsp6:M183I",
         "S:R102I",
         "S:F157L",
         "S:V367F",
@@ -36,6 +36,7 @@
     ],
     "rules": {
         "min_alt": 5,
-        "max_ref": 13
+        "max_ref": 13,
+        "S:E484K": "alt"
     }
 }

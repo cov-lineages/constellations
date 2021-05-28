@@ -20,11 +20,11 @@
         "VUI202103/02"
     ],
     "sites": [
-        "ORF1ab:D736G",
-        "ORF1ab:L438P",
-        "ORF1ab:D112E",
-        "ORF1ab:L71F",
-        "ORF1ab:A368V",
+        "nsp3:D736G",
+        "nsp4:L438P",
+        "nsp6:D112E",
+        "nsp7:L71F",
+        "nsp13:A368V",
         "del:21980:9",
         "S:E484K",
         "S:N501Y",

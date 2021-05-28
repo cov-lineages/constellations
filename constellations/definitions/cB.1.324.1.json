@@ -19,11 +19,11 @@
         "VUI202103/01"
     ],
     "sites": [
-        "ORF1ab:G76S",
+        "nsp3:G76S",
         "nuc:T8704C",
         "nuc:C8986T",
         "nuc:G13617A",
-        "ORF1ab:G206C",
+        "nsp13:G206C",
         "nuc:C22388T",
         "S:E484K",
         "del:27922:34",
