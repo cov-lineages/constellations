@@ -7,7 +7,7 @@
     "type": "variant",
     "variant": {
         "phe-label": "VOC-20-DEC-01",
-        "who-label": "alpha",
+        "who-label": "Alpha",
         "pango-lineages": [
             "B.1.1.7"
         ],
