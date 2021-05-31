@@ -6,10 +6,11 @@
     ],
     "type": "variant",
     "variant": {
-        "phe-label": "VUI-21JAN-01",
         "pango-lineages": [
             "P.2"
         ],
+        "PHE-label": "VUI-21JAN-01",
+        "WHO-label": "Zeta",
         "representative-genome": ""
     },
     "tags": [
