@@ -6,11 +6,11 @@
 	],
     "type": "variant",
     "variant": {
-        "phe-label": "VOC-20-DEC-01",
-        "who-label": "Alpha",
-        "pango-lineages": [
+        "Pango-lineages": [
             "B.1.1.7"
         ],
+        "PHE-label": "VOC-20-DEC-01",
+        "WHO-label": "Alpha",
         "representative-genome": ""
     },
     "tags": [

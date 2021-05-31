@@ -2,18 +2,18 @@
     "label": "cB.1.1.7+E484K",
     "description": "This is a variant of cB.1.1.7 that additionally contains E484K. This includes all independent instances of this.",
     "sources": [
-        null
+		"https://virological.org/t/563"
     ],
     "type": "variant",
     "variant": {
-        "pango-lineages": [
+        "Pango-lineages": [
             "B.1.1.7"
         ],
         "representative-genome": ""
     },
     "tags": [
         "B.1.1.7",
-        "VOC1 + E484K"
+        "E484K"
     ],
     "sites": [
 		"nuc:C912T",

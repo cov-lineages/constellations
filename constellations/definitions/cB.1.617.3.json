@@ -6,17 +6,16 @@
     ],
     "type": "variant",
     "variant": {
-        "phe-label": "VUI-21APR-03",
-        "pango-lineages": [
+        "Pango-lineages": [
             "B.1.617.3"
         ],
+        "PHE-label": "VUI-21APR-03",
         "representative-genome": ""
     },
     "tags": [
         "B.1.617.3",
         "VUI-21APR-03",
-        "spherical-trial",
-        "B.1.617 Clade 3"
+        "spherical-trial"
     ],
     "sites": [
         "nuc:C835T",

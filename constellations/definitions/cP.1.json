@@ -7,10 +7,10 @@
     ],
     "type": "variant",
     "variant": {
-        "phe-label": "VOC-21JAN-02",
-        "pango-lineages": [
+        "Pango-lineages": [
             "P.1"
         ],
+        "PHE-label": "VOC-21JAN-02",
         "WHO-label": "Gamma",
         "representative-genome": ""
     },

@@ -6,10 +6,10 @@
 	],
     "type": "variant", 
     "variant": {
-		"pango-lineages": [
+		"Pango-lineages": [
 			"B.1.351"        
 		],
-		"phe-label": "VOC-20DEC-02",
+		"PHE-label": "VOC-20DEC-02",
 		"WHO-label": "Beta",
 		"representative-genome": ""
     },

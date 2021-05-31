@@ -5,10 +5,10 @@
 	],
     "type": "variant",
     "variant": {
-        "phe-label": "VOC-20-DEC-01",
-        "pango-lineages": [
+        "Pango-lineages": [
             "AV.1"
         ],
+        "PHE-label": "VOC-20-DEC-01",
         "representative-genome": ""
     },
     "tags": [
@@ -25,8 +25,8 @@
 		"s:P681H",
 		"s:I1130V",
 		"s:D1139H",
-    "M:A63T",
-    "M:H125Y",
+    	"M:A63T",
+    	"M:H125Y",
 		"N:I157V",
 		"N:R203K",
 		"N:G204R"

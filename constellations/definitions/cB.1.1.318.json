@@ -6,11 +6,10 @@
 	],
     "type": "variant", 
     "variant": {
-		"phe-label": "VUI-21FEB-04",
-		"who-label": null,
-		"pango-lineages": [
+		"Pango-lineages": [
 			"B.1.1.318"        
 		],
+		"PHE-label": "VUI-21FEB-04",
 		"representative-genome": ""
     },
 	"tags": [

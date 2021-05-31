@@ -6,7 +6,7 @@
     ],
     "type": "variant",
     "variant": {
-        "pango-lineages": [
+        "Pango-lineages": [
             "B.1.617.2"
         ],
         "representative-genome": ""
@@ -16,7 +16,6 @@
         "K417N",
         "VOC-21APR-02",
         "empathy-serve",
-        "B.1.617 Clade 2",
         "VUI-21APR-02"
     ],
     "sites": [
