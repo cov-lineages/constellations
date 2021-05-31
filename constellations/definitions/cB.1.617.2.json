@@ -6,10 +6,11 @@
     ],
     "type": "variant",
     "variant": {
-        "phe-label": "VOC-21APR-02",
         "pango-lineages": [
             "B.1.617.2"
         ],
+        "phe-label": "VOC-21APR-02",
+        "WHO-label": "Delta",
         "representative-genome": ""
     },
     "tags": [
@@ -17,6 +18,7 @@
         "VOC-21APR-02",
         "empathy-serve",
         "B.1.617 Clade 2",
+        "Delta",
         "VUI-21APR-02"
     ],
     "sites": [
