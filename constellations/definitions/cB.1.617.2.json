@@ -1,5 +1,5 @@
 {
-    "label": "cB.1.617.2",
+    "label": "B.1.617.2-like",
     "description": "Defining constellation for lineage B.1.617.2",
     "sources": [
         "https://github.com/cov-lineages/pango-designation/issues/49"
@@ -16,7 +16,6 @@
     "tags": [
         "B.1.617.2",
         "VOC-21APR-02",
-        "empathy-serve",
         "Delta",
         "VUI-21APR-02"
     ],

@@ -1,5 +1,5 @@
 {
-    "label": "cB.1.617.1",
+    "label": "B.1.617.1-like",
     "description": "Defining constellation for lineage B.1.617.1",
     "sources": [
         "https://github.com/cov-lineages/pango-designation/issues/38",
@@ -16,7 +16,6 @@
     "tags": [
         "B.1.617.1",
         "VUI-21APR-01",
-        "habitable-pasty"
     ],
     "sites": [
         "nuc:C3457T",

@@ -1,5 +1,5 @@
 {
-    "label": "cP.1",
+    "label": "P.1-like",
     "description": "Defining constellation for lineage P.1",
     "sources": [
         "https://virological.org/t/586",
@@ -17,7 +17,6 @@
     "tags": [
         "P.1",
         "VOC-21JAN-02",
-        "slinky-antennae",
         "VOC202101/02"
     ],
     "sites": [

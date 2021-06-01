@@ -1,5 +1,5 @@
 {
-    "label": "cP.2",
+    "label": "P.2-like",
     "description": "Defining constellation for lineage P.2",
     "sources": [
         null
@@ -16,7 +16,6 @@
     "tags": [
         "P.2",
         "VUI-21JAN-01",
-        "marbling-doodle",
         "VUI202101/01"
     ],
     "sites": [

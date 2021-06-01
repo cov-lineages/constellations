@@ -1,5 +1,5 @@
 {
-    "label": "cB.1.1.7+E484K",
+    "label": "B.1.1.7-like+E484K",
     "description": "This is a variant of cB.1.1.7 that additionally contains E484K. This includes all independent instances of this.",
     "sources": [
 		"https://virological.org/t/563"

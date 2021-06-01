@@ -1,5 +1,5 @@
 {
-    "label": "cB.1.617.3",
+    "label": "B.1.617.3-like",
     "description": "Defining constellation for lineage B.1.617.3",
     "sources": [
         "https://github.com/cov-lineages/pango-designation/issues/49"
@@ -14,8 +14,7 @@
     },
     "tags": [
         "B.1.617.3",
-        "VUI-21APR-03",
-        "spherical-trial"
+        "VUI-21APR-03"
     ],
     "sites": [
         "nuc:C835T",

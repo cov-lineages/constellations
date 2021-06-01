@@ -1,5 +1,5 @@
 {
-    "label": "cB.1.324.1",
+    "label": "B.1.324.1-like",
     "description": "First detected in the UK in a traveller from Antigua.",
     "sources": [
         "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/968581/Variants_of_Concern_VOC_Technical_Briefing_7_England.pdf"
@@ -15,7 +15,6 @@
     "tags": [
         "B.1.324.1",
         "VUI-21MAR-01",
-        "cornstalk-handprint",
         "VUI202103/01"
     ],
     "sites": [

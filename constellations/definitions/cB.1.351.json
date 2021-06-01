@@ -1,5 +1,5 @@
 {
-    "label": "cB.1.351",
+    "label": "B.1.351-like",
 	"description": "Defining of lineage B.1.351",
 	"sources": [
 		"https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"
@@ -17,7 +17,6 @@
 		"B.1.351",
 		"VOC-20DEC-02",
 		"VOC202012/02",
-		"carnival-shimmy",
 		"Beta",
 		"501.V2",
 		"20H",

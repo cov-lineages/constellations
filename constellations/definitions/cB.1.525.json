@@ -1,5 +1,5 @@
 {
-    "label": "cB.1.525",
+    "label": "B.1.525-like",
     "description": "This variant is a cluster of E484K containing genomes",
     "sources": [
         null
@@ -16,7 +16,6 @@
     "tags": [
         "B.1.525",
         "VUI-21FEB-03",
-        "glorious-saucy",
         "VUI202102/03",
         "Eta",
         "G/484K.V3",

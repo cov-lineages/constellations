@@ -1,5 +1,5 @@
 {
-    "label": "cB.1.617.2+K417N",
+    "label": "B.1.617.2-like+K417N",
     "description": "Defining constellation for lineage B.1.617.2 with the addition of spike K417N",
     "sources": [
         "https://github.com/cov-lineages/pango-designation/issues/49"
@@ -15,7 +15,6 @@
         "B.1.617.2",
         "K417N",
         "VOC-21APR-02",
-        "empathy-serve",
         "VUI-21APR-02"
     ],
     "sites": [

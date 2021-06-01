@@ -1,5 +1,5 @@
 {
-    "label": "cA.23.1+E484K",
+    "label": "cA.23.1-like+E484K",
     "description": "This is a variant of cA.23.1 that additionally contains E484K.",
     "sources": [
         "https://doi.org/10.1101/2021.02.08.21251393"
@@ -15,7 +15,6 @@
     "tags": [
         "A.23.1",
         "VUI-21FEB-01",
-        "cheesy-styling",
         "VUI202102/01"
     ],
     "sites": [
