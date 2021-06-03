@@ -1,0 +1,25 @@
+{
+    "label": "Iota (B.1.526-like)",
+    "description": "",
+    "sources": [
+        null
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango-lineages": [
+            "B.1.526"
+        ],
+        "WHO-label": "Eta",
+        "representative-genome": ""
+    },
+    "tags": [
+        "B.1.526",
+        "Eta"
+    ],
+    "sites": [
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 16
+    }
+}

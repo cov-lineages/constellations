@@ -1,5 +1,5 @@
 {
-    "label": "B.1.351-like",
+    "label": "Beta (B.1.351-like)",
 	"description": "Defining of lineage B.1.351",
 	"sources": [
 		"https://www.medrxiv.org/content/10.1101/2020.12.21.20248640v1"

@@ -1,0 +1,27 @@
+{
+    "label": "Epsilon (B.1.427/429-like)",
+    "description": "",
+    "sources": [
+        null
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango-lineages": [
+            "B.1.427",
+            "B.1.429"
+        ],
+        "WHO-label": "Epsilon",
+        "representative-genome": ""
+    },
+    "tags": [
+        "B.1.527",
+        "B.1.529",
+        "Eta"
+    ],
+    "sites": [
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 16
+    }
+}

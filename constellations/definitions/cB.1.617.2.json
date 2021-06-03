@@ -1,5 +1,5 @@
 {
-    "label": "B.1.617.2-like",
+    "label": "Delta (B.1.617.2-like)",
     "description": "Defining constellation for lineage B.1.617.2",
     "sources": [
         "https://github.com/cov-lineages/pango-designation/issues/49"
