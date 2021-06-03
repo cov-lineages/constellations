@@ -19,9 +19,21 @@
         "Eta"
     ],
     "sites": [
+    	"S:S13I",
+		"S:W152C",
+		"S:L452R",
+		"S:D614G",
+		"ORF1a:I4205V",
+		"ORF1b:D1183Y",
+		"nuc:C2395T",
+		"nuc:T2597C",
+		"nuc:T24349C",
+		"nuc:G27890T",
+		"nuc:A28272T"
     ],
     "rules": {
         "min_alt": 5,
-        "max_ref": 16
+        "max_ref": 3
     }
 }
+

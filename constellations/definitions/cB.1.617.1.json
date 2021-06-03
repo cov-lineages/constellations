@@ -32,6 +32,6 @@
     ],
     "rules": {
         "min_alt": 5,
-        "max_ref": 11
+        "max_ref": 3
     }
 }

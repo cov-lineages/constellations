@@ -40,7 +40,7 @@
         "nuc:G29543T"
     ],
     "rules": {
-        "min_alt": 5,
-        "max_ref": 16
+        "min_alt": 8,
+        "max_ref": 3
     }
 }

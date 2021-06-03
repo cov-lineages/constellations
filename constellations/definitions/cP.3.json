@@ -39,7 +39,7 @@
         "nuc:T24187A"
     ],
     "rules": {
-        "min_alt": 7,
-        "max_ref": 17
+        "min_alt": 9,
+        "max_ref": 3
     }
 }

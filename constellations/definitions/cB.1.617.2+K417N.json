@@ -34,7 +34,7 @@
     ],
     "rules": {
         "min_alt": 5,
-        "max_ref": 12,
+        "max_ref": 3,
         "S:K417N": "alt"
     }
 }

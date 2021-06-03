@@ -36,7 +36,7 @@
         "N:D377Y"
     ],
     "rules": {
-        "min_alt": 8,
-        "max_ref": 17
+        "min_alt": 9,
+        "max_ref": 3
     }
 }

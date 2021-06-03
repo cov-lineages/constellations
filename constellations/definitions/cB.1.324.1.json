@@ -29,7 +29,7 @@
         "nuc:A28272T"
     ],
     "rules": {
-        "min_alt": 8,
-        "max_ref": 9
+        "min_alt": 5,
+        "max_ref": 3
     }
 }

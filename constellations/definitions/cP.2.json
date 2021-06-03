@@ -28,7 +28,7 @@
         "N:M234I"
     ],
     "rules": {
-        "min_alt": 6,
-        "max_ref": 6
+        "min_alt": 5,
+        "max_ref": 1
     }
 }

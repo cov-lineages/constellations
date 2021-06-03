@@ -39,7 +39,7 @@
         "del:28895:3"
     ],
     "rules": {
-        "min_alt": 5,
-        "max_ref": 19
+        "min_alt": 11,
+        "max_ref": 3
     }
 }
