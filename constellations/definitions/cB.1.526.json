@@ -9,12 +9,12 @@
         "Pango-lineages": [
             "B.1.526"
         ],
-        "WHO-label": "Eta",
+        "WHO-label": "Iota",
         "representative-genome": ""
     },
     "tags": [
         "B.1.526",
-        "Eta"
+        "Iota"
     ],
     "sites": [
         "nuc:C3037T",
