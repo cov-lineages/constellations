@@ -1,0 +1,23 @@
+{
+    "label": "Lambda (C.37-like)",
+	"description": "C.37 lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango-lineages": [
+            "C.37"
+        ],
+        "representative-genome": ""
+    },
+    "tags": [
+        "Lambda",
+        "C.37"
+    ],
+    "sites": [
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 3
+    }
+}
