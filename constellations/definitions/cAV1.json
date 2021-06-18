@@ -3,17 +3,18 @@
 	"description": "AV.1 lineage defining mutations",
 	"sources": [
 	],
-    "type": "variant",
-    "variant": {
-        "Pango-lineages": [
-            "AV.1"
-        ],
-        "PHE-label": "VOC-20-DEC-01",
-        "representative-genome": ""
-    },
-    "tags": [
-        "AV.1"
-    ],
+	"defines_lineage": "AV.1",
+	"type": "variant",
+	"variant": {
+        	"Pango-lineages": [
+			"AV.1"
+        	],
+        	"PHE_label": "VOC-20-DEC-01",
+        	"representative_genome": ""
+	},
+    	"tags": [
+		"AV.1"
+	],
 	"sites": [
 		"s:D80G",
 		"s:T95I",
@@ -25,8 +26,8 @@
 		"s:P681H",
 		"s:I1130V",
 		"s:D1139H",
-    	"M:A63T",
-    	"M:H125Y",
+		"M:A63T",
+		"M:H125Y",
 		"N:I157V",
 		"N:R203K",
 		"N:G204R"
