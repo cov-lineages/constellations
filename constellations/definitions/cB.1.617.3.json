@@ -6,11 +6,12 @@
     ],
     "type": "variant",
     "variant": {
-        "Pango-lineages": [
+        "Pango_lineages": [
             "B.1.617.3"
         ],
-        "PHE-label": "VUI-21APR-03",
-        "representative-genome": ""
+	    "mrca_lineage": "B.1.617.3",
+        "PHE_label": "VUI-21APR-03",
+        "representative_genome": ""
     },
     "tags": [
         "B.1.617.3",

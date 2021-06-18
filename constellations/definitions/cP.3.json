@@ -7,12 +7,13 @@
     ],
     "type": "variant",
     "variant": {
-        "Pango-lineages": [
+        "Pango_lineages": [
             "P.3"
         ],
-        "PHE-label": "VUI-21MAR-02",
-        "WHO-label": "Theta",
-        "representative-genome": ""
+	    "mrca_lineage": "P.3",
+        "PHE_label": "VUI-21MAR-02",
+        "WHO_label": "Theta",
+        "representative_genome": ""
     },
     "tags": [
         "P.3",

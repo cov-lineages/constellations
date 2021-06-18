@@ -3,16 +3,16 @@
 	"description": "AV.1 lineage defining mutations",
 	"sources": [
 	],
-	"defines_lineage": "AV.1",
 	"type": "variant",
 	"variant": {
-        	"Pango-lineages": [
+		"Pango_lineages": [
 			"AV.1"
-        	],
-        	"PHE_label": "VOC-20-DEC-01",
-        	"representative_genome": ""
+		],
+		"mrca_lineage": "AV.1",
+		"PHE_label": "VOC-20-DEC-01",
+		"representative_genome": ""
 	},
-    	"tags": [
+	"tags": [
 		"AV.1"
 	],
 	"sites": [

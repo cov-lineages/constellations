@@ -6,12 +6,13 @@
     ],
     "type": "variant",
     "variant": {
-        "Pango-lineages": [
+        "Pango_lineages": [
             "B.1.525"
         ],
-        "PHE-label": "VUI-21FEB-03",
-        "WHO-label": "Eta",
-        "representative-genome": ""
+	    "mrca_lineage": "B.1.525",
+        "PHE_label": "VUI-21FEB-03",
+        "WHO_label": "Eta",
+        "representative_genome": ""
     },
     "tags": [
         "B.1.525",

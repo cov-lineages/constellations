@@ -4,12 +4,12 @@
     "sources": [
         "https://doi.org/10.1101/2021.02.08.21251393"
     ],
-    "defines_lineage": "A.23.1",
     "type": "variant",
     "variant": {
         "Pango_lineages": [
             "A.23.1"
         ],
+	    "mrca_lineage": "A.23.1",
         "representative_genome": ""
     },
     "tags": [

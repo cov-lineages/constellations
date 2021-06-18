@@ -6,10 +6,11 @@
     ],
     "type": "variant",
     "variant": {
-        "Pango-lineages": [
+        "Pango_lineages": [
             "B.1.1.7"
         ],
-        "representative-genome": ""
+	    "mrca_lineage": "B.1.1.7",
+        "representative_genome": ""
     },
     "tags": [
         "B.1.1.7",

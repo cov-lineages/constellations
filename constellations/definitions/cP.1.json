@@ -7,12 +7,13 @@
     ],
     "type": "variant",
     "variant": {
-        "Pango-lineages": [
+        "Pango_lineages": [
             "P.1"
         ],
-        "PHE-label": "VOC-21JAN-02",
-        "WHO-label": "Gamma",
-        "representative-genome": ""
+	    "mrca_lineage": "P.1",
+        "PHE_label": "VOC-21JAN-02",
+        "WHO_label": "Gamma",
+        "representative_genome": ""
     },
     "tags": [
         "P.1",

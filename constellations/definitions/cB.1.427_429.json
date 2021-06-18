@@ -6,16 +6,16 @@
     ],
     "type": "variant",
     "variant": {
-        "Pango-lineages": [
+        "Pango_lineages": [
             "B.1.427",
             "B.1.429"
         ],
-        "WHO-label": "Epsilon",
-        "representative-genome": ""
+        "WHO_label": "Epsilon",
+        "representative_genome": ""
     },
     "tags": [
-        "B.1.527",
-        "B.1.529",
+        "B.1.427",
+        "B.1.429",
         "Eta"
     ],
     "sites": [

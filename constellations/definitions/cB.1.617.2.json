@@ -6,12 +6,15 @@
     ],
     "type": "variant",
     "variant": {
-        "Pango-lineages": [
-            "B.1.617.2"
+        "Pango_lineages": [
+            "B.1.617.2",
+            "AY.1",
+            "AY.2"
         ],
-        "PHE-label": "VOC-21APR-02",
-        "WHO-label": "Delta",
-        "representative-genome": ""
+	    "mrca_lineage": "B.1.617.2",
+        "PHE_label": "VOC-21APR-02",
+        "WHO_label": "Delta",
+        "representative_genome": ""
     },
     "tags": [
         "B.1.617.2",
