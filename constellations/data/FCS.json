@@ -2,5 +2,5 @@
   "name": "furin-cleavage-site",
   "prefix": "FCS",
   "description": "The furin cleavage site and its adjacent codons",
-  "sites": [ "s:681","s:682","s:683","s:684","s:685","s:686" ]  
+  "sites": [ "s:S680", "s:P681","s:R682","s:R683","s:A684","s:R685","s:S686" ]  
 }
