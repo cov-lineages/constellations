@@ -12,6 +12,10 @@
             "AY.2"
         ],
 	    "mrca_lineage": "B.1.617.2",
+        "incompatible_lineage_calls": [
+            "AY.1",
+            "AY.2"
+        ],
         "PHE_label": "VOC-21APR-02",
         "WHO_label": "Delta",
         "representative_genome": ""
