@@ -53,7 +53,7 @@
         "nuc:T28618A:0.916667"
     ],
     "rules": {
-        "min_alt": 5,
+        "min_alt": 19,
         "max_ref": 3
     }
 }
