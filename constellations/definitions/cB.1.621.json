@@ -1,0 +1,40 @@
+{
+    "label": "B.1.621-like",
+    "description": "",
+    "sources": [
+        "https://github.com/cov-lineages/pango-designation/issues/57"
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "B.1.621"
+        ],
+	    "mrca_lineage": "B.1.621",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.621"
+    ],
+    "sites": [
+        "nsp3:T237A",
+        "nsp3:T720I",
+        "nsp6:Q160R",
+        "nsp12:P323L",
+        "nsp13:P419S",
+        "S:T95I",
+        "S:Y144T",
+        "S:R346K",
+        "S:E484K",
+        "S:N501Y",
+        "S:P681H",
+        "ORF3a:Q57H",
+        "del:26158:4",
+        "ORF8:T11K",
+        "ORF8:P38S",
+        "ORF8:S67F"
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 3
+    }
+}
