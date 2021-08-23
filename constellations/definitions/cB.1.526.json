@@ -36,11 +36,15 @@
 		"N:P199L",
 		"N:M234I",
 		"ORF8:T11I",
+		"S:S477N",
+		"S:Q957R",
+		"N:P13L",
+		"N:S202R",
         "nuc:A28271-"
     ],
     "rules": {
         "min_alt": 11,
-        "max_ref": 3
+        "max_ref": 7
     }
 }
 
