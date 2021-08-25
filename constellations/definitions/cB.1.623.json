@@ -19,14 +19,14 @@
         "VUI202103/01"
     ],
     "sites": [
-        "nsp3:G76S",
-        "nuc:T8704C",
-        "nuc:C8986T",
-        "nuc:G13617A",
-        "nsp13:G206C",
-        "nuc:C22388T",
-        "S:E484K",
+        "nsp2:T85I",
+        "nsp4:T439M",
+        "S:S494P",
+        "S:N501Y",
+        "S:P681H",
+        "ORF3a:Q57H",
         "del:27922:34",
+        "N:M234I",
         "nuc:A28272T"
     ],
     "rules": {
