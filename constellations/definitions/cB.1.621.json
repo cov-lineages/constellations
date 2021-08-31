@@ -1,5 +1,5 @@
 {
-    "label": "B.1.621-like",
+    "label": "Mu (B.1.621-like)",
     "description": "",
     "sources": [
         "https://github.com/cov-lineages/pango-designation/issues/57"
@@ -9,7 +9,8 @@
         "Pango_lineages": [
             "B.1.621"
         ],
-	    "mrca_lineage": "B.1.621",
+	"mrca_lineage": "B.1.621",
+	"WHO_label": "Mu",
         "representative_genome": ""
     },
     "tags": [
