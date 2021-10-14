@@ -1,0 +1,25 @@
+{
+	"label": "Delta (AY.4.2-like)",
+	"description": "AY.4.2 lineage defining mutations",
+	"sources": [
+	],
+	"type": "variant",
+	"variant": {
+		"Pango_lineages": [
+			"AY.4.2"
+		],
+		"mrca_lineage": "AY.4.2",
+		"representative_genome": ""
+	},
+	"tags": [
+		"AY.4.2"
+	],
+	"sites": [
+		"s:Y145H",
+		"s:A222V"
+	],
+	"rules": {
+		"min_alt": 2,
+		"max_ref": 0
+	}
+}
