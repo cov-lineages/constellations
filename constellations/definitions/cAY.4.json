@@ -1,22 +1,24 @@
 {
-    "label": "Delta (AY.4.2-like)",
-    "description": "AY.4.2 lineage defining mutations",
+    "label": "Delta (AY.4-like)",
+    "description": "AY.4 lineage defining mutations",
     "sources": [
     ],
     "type": "variant",
     "variant": {
 	"Pango_lineages": [
-	    "AY.4.2"
+	    "AY.4"
 	],
-	"mrca_lineage": "AY.4.2",
+	"mrca_lineage": "AY.4",
 	"representative_genome": ""
     },
     "tags": [
-	"AY.4.2"
+	"AY.4"
     ],
     "sites": [
         "del:28271:1",
+        "del:22029:6",
         "del:28248:6",
+        "nuc:C241T",
         "nuc:C3037T",
         "orf1a:A1306S",
         "orf1a:P2046L",
@@ -30,16 +32,14 @@
         "orf1b:P314L",
         "orf1b:G662S",
         "orf1b:P1000L",
-        "nuc:T17040C",
         "orf1b:A1918V",
         "spike:T19R",
-        "spike:A222V",
         "spike:L452R",
         "spike:T478K",
         "spike:D614G",
         "spike:P681R",
+        "spike:D950N",
         "orf3a:S26L",
-        "nuc:C25614T",
         "m:I82T",
         "orf7a:V82A",
         "orf7a:T120I",
@@ -48,21 +48,17 @@
         "n:R203M",
         "n:G215C",
         "n:D377Y",
-        "nuc:G29742T",
-        "spike:Y145H"
+        "nuc:G29742T"
     ],
     "intermediate": [
-        "del:22029:6:0.961207",
-        "nuc:G210T:0.978338",
-        "nuc:C241T:0.978338",
-        "spike:T95I:0.978338",
-        "spike:G142D:0.978338",
-        "spike:D950N:0.978338"
+        "nuc:G210T:0.976009",
+        "nuc:T17040C:0.976009",
+        "spike:T95I:0.976009",
+        "spike:G142D:0.976009"
     ],
     "rules": {
-        "min_alt": 32,
+        "min_alt": 31,
         "max_ref": 3,
-        "spike:Y145H": "alt",
-        "spike:A222V": "alt"
+        "orf1a:A2529V": "alt"
     }
 }
