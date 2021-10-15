@@ -62,8 +62,8 @@
     "rules": {
         "min_alt": 32,
         "max_ref": 3,
-        "spike:Y145H": "not ref",
+        "spike:Y145H": "alt",
         "spike:A222V": "alt",
-        "nuc:T17040C": "alt
+        "nuc:T17040C": "alt"
     }
 }
