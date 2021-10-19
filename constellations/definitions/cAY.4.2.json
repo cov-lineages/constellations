@@ -9,46 +9,17 @@
 	    "AY.4.2"
 	],
 	"mrca_lineage": "AY.4.2",
+        "lineage_name": "AY.4.2",
+        "parent_lineage": "AY.4",
 	"representative_genome": ""
     },
     "tags": [
 	"AY.4.2"
     ],
     "sites": [
-        "del:28271:1",
-        "del:28248:6",
-        "nuc:C3037T",
-        "orf1a:A1306S",
-        "orf1a:P2046L",
-        "orf1a:P2287S",
-        "orf1a:A2529V",
-        "nuc:C8986T",
-        "orf1a:V2930L",
-        "orf1a:T3255I",
-        "orf1a:T3646A",
-        "nuc:A11332G",
-        "orf1b:P314L",
-        "orf1b:G662S",
-        "orf1b:P1000L",
         "nuc:T17040C",
-        "orf1b:A1918V",
-        "spike:T19R",
         "spike:A222V",
-        "spike:L452R",
-        "spike:T478K",
-        "spike:D614G",
-        "spike:P681R",
-        "orf3a:S26L",
         "nuc:C25614T",
-        "m:I82T",
-        "orf7a:V82A",
-        "orf7a:T120I",
-        "nuc:C27874T",
-        "n:D63G",
-        "n:R203M",
-        "n:G215C",
-        "n:D377Y",
-        "nuc:G29742T",
         "spike:Y145H"
     ],
     "intermediate": [
@@ -60,8 +31,8 @@
         "spike:D950N:0.978338"
     ],
     "rules": {
-        "min_alt": 32,
-        "max_ref": 3,
+        "min_alt": 3,
+        "max_ref": 1,
         "spike:Y145H": "alt",
         "spike:A222V": "alt",
         "nuc:T17040C": "alt"

@@ -9,6 +9,8 @@
 	    "AY.4"
 	],
 	"mrca_lineage": "AY.4",
+        "lineage_name": "AY.4",
+        "parent_lineage": "B.1.617.2",
 	"representative_genome": ""
     },
     "tags": [
