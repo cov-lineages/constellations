@@ -34,7 +34,6 @@
         "min_alt": 3,
         "max_ref": 1,
         "spike:Y145H": "not ref",
-        "spike:A222V": "alt",
-        "nuc:T17040C": "alt"
+        "spike:A222V": "not ref"
     }
 }
