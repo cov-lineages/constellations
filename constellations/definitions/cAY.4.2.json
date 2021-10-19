@@ -1,25 +1,40 @@
 {
-	"label": "Delta (AY.4.2-like)",
-	"description": "AY.4.2 lineage defining mutations",
-	"sources": [
+    "label": "Delta (AY.4.2-like)",
+    "description": "AY.4.2 lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+	"Pango_lineages": [
+	    "AY.4.2"
 	],
-	"type": "variant",
-	"variant": {
-		"Pango_lineages": [
-			"AY.4.2"
-		],
-		"mrca_lineage": "AY.4.2",
-		"representative_genome": ""
-	},
-	"tags": [
-		"AY.4.2"
-	],
-	"sites": [
-		"s:Y145H",
-		"s:A222V"
-	],
-	"rules": {
-		"min_alt": 2,
-		"max_ref": 0
-	}
+	"mrca_lineage": "AY.4.2",
+        "lineage_name": "AY.4.2",
+        "parent_lineage": "AY.4",
+	"representative_genome": ""
+    },
+    "tags": [
+	"AY.4.2"
+    ],
+    "sites": [
+        "nuc:T17040C",
+        "spike:A222V",
+        "nuc:C25614T",
+        "spike:Y145H"
+    ],
+    "intermediate": [
+        "del:22029:6:0.961207",
+        "nuc:G210T:0.978338",
+        "nuc:C241T:0.978338",
+        "spike:T95I:0.978338",
+        "spike:G142D:0.978338",
+        "spike:D950N:0.978338"
+    ],
+    "rules": {
+        "min_alt": 3,
+        "max_ref": 1,
+        "spike:Y145H": "alt",
+        "spike:A222V": "not ref",
+        "nuc:T17040C": "alt"
+    }
 }
