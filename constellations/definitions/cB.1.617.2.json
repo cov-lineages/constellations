@@ -14,8 +14,8 @@
 	    "mrca_lineage": "B.1.617.2",
         "lineage_name": "B.1.617.2",
         "incompatible_lineage_calls": [
-            "AY.1",
-            "AY.2"
+            "AY.4",
+            "AY.4.2"
         ],
         "PHE_label": "VOC-21APR-02",
         "WHO_label": "Delta",
