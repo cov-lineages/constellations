@@ -11,7 +11,10 @@
             "AY.2",
             "B.1.617.2"
         ],
-	    "mrca_lineage": "B.1.617.2",
+        "incompatible_lineage_calls": [
+            "AY.4"
+        ],
+	"mrca_lineage": "B.1.617.2",
         "representative_genome": ""
     },
     "tags": [
