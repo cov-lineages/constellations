@@ -14,6 +14,8 @@
 	    "mrca_lineage": "B.1.617.2",
         "lineage_name": "B.1.617.2",
         "incompatible_lineage_calls": [
+            "AY.1",
+            "AY.2",
             "AY.4",
             "AY.4.2"
         ],
