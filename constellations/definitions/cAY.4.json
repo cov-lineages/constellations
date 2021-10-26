@@ -23,8 +23,6 @@
         "del:28271:1",
         "del:22029:6",
         "del:28248:6",
-        "nuc:C241T",
-        "nuc:C3037T",
         "orf1a:A1306S",
         "orf1a:P2046L",
         "orf1a:P2287S",
@@ -38,31 +36,18 @@
         "orf1b:G662S",
         "orf1b:P1000L",
         "orf1b:A1918V",
-        "spike:T19R",
-        "spike:L452R",
-        "spike:T478K",
-        "spike:D614G",
-        "spike:P681R",
-        "spike:D950N",
-        "orf3a:S26L",
-        "m:I82T",
-        "orf7a:V82A",
-        "orf7a:T120I",
         "nuc:C27874T",
-        "n:D63G",
-        "n:R203M",
         "n:G215C",
-        "n:D377Y",
         "nuc:G29742T"
     ],
     "intermediate": [
-        "nuc:G210T:0.976009",
-        "nuc:T17040C:0.976009",
-        "spike:T95I:0.976009",
-        "spike:G142D:0.976009"
+        "nuc:G210T:0.961862",
+        "nuc:C241T:0.972018",
+        "nuc:T17040C:0.468120",
+        "spike:T95I:0.967111"
     ],
     "rules": {
-        "min_alt": 31,
+        "min_alt": 12,
         "max_ref": 3,
         "orf1a:A2529V": "alt"
     }
