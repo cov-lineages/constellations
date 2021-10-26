@@ -62,7 +62,7 @@
         "spike:G142D:0.976009"
     ],
     "rules": {
-        "min_alt": 31,
+        "min_alt": 26,
         "max_ref": 3,
         "orf1a:A2529V": "alt"
     }
