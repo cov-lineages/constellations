@@ -1,0 +1,77 @@
+{
+    "label": "B.1.1.529-like",
+    "description": "B.1.1.529 lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "B.1.1.529"
+        ],
+	"mrca_lineage": "B.1.1.529",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.1.529"
+    ],
+    "sites": [
+        "nuc:C241T",
+        "orf1a:K856R",
+        "nuc:C3037T",
+        "nuc:T5386G",
+        "orf1a:A2710T",
+        "orf1a:T3255I",
+        "orf1a:P3395H",
+        "orf1a:I3758V",
+        "nuc:T13195C",
+        "orf1b:P314L",
+        "nuc:C15240T",
+        "orf1b:I1566V",
+        "spike:A67V",
+        "spike:T95I",
+        "spike:G339D",
+        "spike:S371L",
+        "spike:S373P",
+        "spike:K417N",
+        "spike:N440K",
+        "spike:G446S",
+        "spike:T547K",
+        "spike:D614G",
+        "spike:H655Y",
+        "spike:N679K",
+        "spike:P681H",
+        "spike:N764K",
+        "spike:D796Y",
+        "spike:N856K",
+        "spike:Q954H",
+        "spike:N969K",
+        "nuc:C25000T",
+        "nuc:C25584T",
+        "e:T9I",
+        "m:D3G",
+        "m:Q19E",
+        "m:A63T",
+        "nuc:A27259C",
+        "nuc:C27807T",
+        "n:P13L",
+        "n:RG203KR"
+    ],
+    "intermediate": [
+        "orf1a:V1887I:0.600000",
+        "spike:S375F:0.300000",
+        "spike:S477N:0.400000",
+        "spike:T478K:0.400000",
+        "spike:E484A:0.400000",
+        "spike:Q493R:0.400000",
+        "spike:G496S:0.400000",
+        "spike:Q498R:0.400000",
+        "spike:N501Y:0.400000",
+        "spike:Y505H:0.300000",
+        "spike:L981F:0.900000",
+        "nuc:A28271T:0.900000"
+    ],
+    "rules": {
+        "min_alt": 32,
+        "max_ref": 3
+    }
+}
