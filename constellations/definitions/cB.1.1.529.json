@@ -66,7 +66,7 @@
     "note": "We have included spike mutations S477N T478K E484A Q493R G496S Q498R N501Y, but these drop out in some early sequences. Additional rules have been added to compensate.",
     "rules": {
         "min_alt": 32,
-        "max_ref": 3,
+        "max_ref": 5,
         "spike:S477N": "not ref",
         "spike:T478K": "not ref",
         "spike:E484A": "not ref",
