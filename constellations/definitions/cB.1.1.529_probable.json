@@ -64,8 +64,7 @@
         "nuc:C27807T",
         "n:RG203KR"
     ],
-    "note": "We have included spike mutations S477N T478K E484A Q493R G496S Q498R N501Y, but these drop out in some early sequences. Additional rules have been added to compensate.",
-    "note2": "This file has been added to allow probable calls to be made, even when the incoming consensus pipeline calls for ref in lower quality regions",
+    "note": "This file has been added to allow probable calls to be made, even when the incoming consensus pipeline calls for ref in lower quality regions",
     "rules": {
         "min_alt": 20,
         "max_ref": 10
