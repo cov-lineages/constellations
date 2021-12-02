@@ -26,14 +26,14 @@
         "spike:D614G",
         "orf3a:Q57H",
         "nuc:C26681T",
-        "n:T205I"
+        "n:T205I",
+        "nuc:G13713A",
+        "nuc:A28272T"
     ],
     "intermediate": [
         "orf1a:S3158T:0.953838",
-        "nuc:G13713A:0.938060",
         "orf1b:P314L:0.927219",
-        "orf1b:P976L:0.948544",
-        "nuc:A28272T:0.978064"
+        "orf1b:P976L:0.948544"
     ],
     "rules": {
         "min_alt": 5,

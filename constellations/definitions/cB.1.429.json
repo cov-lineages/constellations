@@ -19,10 +19,7 @@
         "spike:S13I",
         "spike:W152C",
         "spike:L452R",
-        "nuc:C241T",
         "orf1a:T265I",
-        "nuc:C2395T",
-        "nuc:T2597C",
         "nuc:C3037T",
         "orf1a:I4205V",
         "orf1b:D1183Y",
@@ -40,7 +37,7 @@
         "orf1b:P314L:0.953340"
     ],
     "rules": {
-        "min_alt": 9,
+        "min_alt": 6,
         "max_ref": 3
     }
 }
