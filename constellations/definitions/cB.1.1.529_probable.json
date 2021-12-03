@@ -9,7 +9,7 @@
             "B.1.1.529"
         ],
         "WHO_label": "Omicron",
-	"mrca_lineage": "B.1.1.529 (probable)",
+	"mrca_lineage": "B.1.1.529",
         "representative_genome": ""
     },
     "tags": [
