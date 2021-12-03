@@ -1,0 +1,42 @@
+{
+    "label": "Epsilon (B.1.427-like)",
+    "description": "",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "B.1.427"
+        ],
+        "WHO_label": "Epsilon",
+        "mrca_lineage": "B.1.427",
+        "representative_genome": ""
+    },
+    "tags": [
+        "B.1.427"
+    ],
+    "sites": [
+        "spike:S13I",
+        "spike:W152C",
+        "spike:L452R",
+        "nuc:C241T",
+        "orf1a:T265I",
+        "nuc:C3037T",
+        "orf1b:D1183Y",
+        "spike:D614G",
+        "orf3a:Q57H",
+        "nuc:C26681T",
+        "n:T205I",
+        "nuc:G13713A",
+        "nuc:A28272T"
+    ],
+    "intermediate": [
+        "orf1a:S3158T:0.953838",
+        "orf1b:P314L:0.927219",
+        "orf1b:P976L:0.948544"
+    ],
+    "rules": {
+        "min_alt": 5,
+        "max_ref": 3
+    }
+}
