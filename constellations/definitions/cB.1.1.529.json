@@ -16,9 +16,6 @@
         "B.1.1.529"
     ],
     "sites": [
-        "del:6513:3",
-        "del:11283:9",
-        "nuc:C241T",
         "orf1a:K856R",
         "nuc:C3037T",
         "nuc:T5386G",
@@ -45,6 +42,7 @@
         "spike:G496S",
         "spike:Q498R",
         "spike:N501Y",
+        "spike:Y505H",
         "spike:T547K",
         "spike:D614G",
         "spike:H655Y",
@@ -66,7 +64,7 @@
     ],
     "note": "We have included spike mutations S477N T478K E484A Q493R G496S Q498R N501Y, but these drop out in some early sequences. Additional rules have been added to compensate.",
     "rules": {
-        "min_alt": 32,
+        "min_alt": 30,
         "max_ref": 5,
         "spike:S477N": "not ref",
         "spike:T478K": "not ref",

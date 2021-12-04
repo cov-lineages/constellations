@@ -16,9 +16,6 @@
         "B.1.1.529"
     ],
     "sites": [
-        "del:6513:3",
-        "del:11283:9",
-        "nuc:C241T",
         "orf1a:K856R",
         "nuc:C3037T",
         "nuc:T5386G",
@@ -45,6 +42,7 @@
         "spike:G496S",
         "spike:Q498R",
         "spike:N501Y",
+        "spike:Y505H",
         "spike:T547K",
         "spike:D614G",
         "spike:H655Y",
@@ -67,6 +65,6 @@
     "note": "This file has been added to allow probable calls to be made, even when the incoming consensus pipeline calls for ref in lower quality regions",
     "rules": {
         "min_alt": 20,
-        "max_ref": 10
+        "max_ref": 15
     }
 }
