@@ -24,7 +24,7 @@
         "nuc:C3037T # B.1 defining",
         "orf1ab:T3255I",
         "orf1ab:P3395H",
-        "del:11288:9 # orf1a:SGF3675-",
+        "orf1ab:SGF3675- # del:11288:9",
         "nuc:T13195C",
         "orf1ab:P4715L # B.1 defining",
         "orf1ab:I5967V",
@@ -64,6 +64,6 @@
     "note": "Common mutations to the sublineages found",
     "rules": {
         "min_alt": 31,
-        "max_ref": 5,
+        "max_ref": 5
     }
 }
