@@ -1,5 +1,5 @@
 {
-    "label": "Omicron (B.1.1.529-like)",
+    "label": "B.1.1.529-like",
     "description": "B.1.1.529 lineage defining mutations",
     "sources": [
     ],
@@ -8,7 +8,6 @@
         "Pango_lineages": [
             "B.1.1.529"
         ],
-        "WHO_label": "Omicron",
 	"mrca_lineage": "B.1.1.529",
         "representative_genome": "",
         "lineage_name": "B.1.1.529",

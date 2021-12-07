@@ -1,19 +1,19 @@
 {
-    "label": "Probable Omicron (B.1.1.529-like)",
-    "description": "B.1.1.529 lineage defining mutations with lower thresholds to handle lower quality consensus sequences",
+    "label": "Probable Omicron (BA.1-like)",
+    "description": "BA.1 lineage defining mutations with lower thresholds to handle lower quality consensus sequences",
     "sources": [
     ],
     "type": "variant",
     "variant": {
         "Pango_lineages": [
-            "B.1.1.529"
+            "BA.1"
         ],
         "WHO_label": "Omicron",
-	"mrca_lineage": "B.1.1.529",
+	"mrca_lineage": "BA.1",
         "representative_genome": ""
     },
     "tags": [
-        "B.1.1.529"
+        "BA.1"
     ],
     "sites": [
         "nuc:C3037T # B.1 defining",
@@ -73,38 +73,11 @@
         "spike:T547K # BA.1 defining",
         "spike:N856K # BA.1 defining",
         "spike:L981F # BA.1 defining",
-        "m:D3G # BA.1 defining",
-        "orf1ab:S135R # BA.2 defining",
-        "orf1ab:T842I # BA.2 defining",
-        "orf1ab:G1307S # BA.2 defining",
-        "nuc:C4321T # BA.2 defining",
-        "orf1ab:L3027F # BA.2 defining",
-        "nuc:A9424G # BA.2 defining",
-        "orf1ab:T3090I # BA.2 defining",
-        "orf1ab:L3201F # BA.2 defining",
-        "nuc:C10198T # BA.2 defining",
-        "nuc:G10447A # BA.2 defining",
-        "nuc:C15714T # BA.2 defining",
-        "nuc:C12880T # BA.2 defining",
-        "nuc:C15714T # BA.2 defining",
-        "orf1ab:R5716C # BA.2 defining",
-        "orf1ab:T6564I # BA.2 defining",
-        "nuc:A20055G # BA.2 defining",
-        "spike:T19I # BA.2 defining",
-        "del:21633:9 # spike:LPPA24S # BA.2 defining",
-        "spike:V231G # BA.2 defining",
-        "spike:S371F # BA.2 defining",
-        "spike:T376A # BA.2 defining",
-        "spike:D405N # BA.2 defining",
-        "spike:R408S # BA.2 defining",
-        "orf3a:T233I # BA.2 defining",
-        "nuc:C26858T # BA.2 defining",
-        "orf6:D61L # GAT->CTC # BA.2 defining",
-        "n:S413R # BA.2 defining"
+        "m:D3G # BA.1 defining"
     ],
     "note": "This file has been added to allow probable calls to be made, even when the incoming consensus pipeline calls for ref in lower quality regions",
     "rules": {
         "min_alt": 25,
-        "max_ref": 45
+        "max_ref": 18
     }
 }

@@ -40,8 +40,10 @@
         "m:D3G"
     ],
     "note": "Unique mutations for sublineage",
+    "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
     "rules": {
         "min_alt": 10,
-        "max_ref": 3
+        "max_ref": 3,
+        "spike:D614G": "not ref"
     }
 }
