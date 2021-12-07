@@ -104,7 +104,7 @@
     ],
     "note": "This file has been added to allow probable calls to be made, even when the incoming consensus pipeline calls for ref in lower quality regions",
     "rules": {
-        "min_alt": 20,
-        "max_ref": 15
+        "min_alt": 25,
+        "max_ref": 45
     }
 }
