@@ -1,0 +1,49 @@
+{
+    "label": "Omicron (BA.1-like)",
+    "description": "BA.1 lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "BA.1"
+        ],
+        "WHO_label": "Omicron",
+	"mrca_lineage": "BA.1",
+        "lineage_name": "BA.1",
+        "parent_lineage": "B.1.1.529",
+        "representative_genome": ""
+    },
+    "tags": [
+        "BA.1"
+    ],
+    "sites": [
+        "orf1ab:K856R",
+        "del:6513:3 # orf1a:SL2083I ",
+        "nuc:T5386G",
+        "orf1ab:A2710T",
+        "# nuc:G11287T # orf1ab:L3674F # aligners often place the parent del at 11283 rather than 11288",
+        "orf1ab:I3758V",
+        "nuc:C15240T",
+        "spike:A67V",
+        "del:21765:6 # spike:HV69-",
+        "spike:T95I",
+        "del:21987:9 # spike:VYY143-",
+        "del:22194:3 # spike:NL211I",
+        "nuc:22205+GAGCCAGAA # spike:-215EPE",
+        "spike:S371L",
+        "spike:G446S",
+        "spike:G496S",
+        "spike:T547K",
+        "spike:N856K",
+        "spike:L981F",
+        "m:D3G"
+    ],
+    "note": "Unique mutations for sublineage",
+    "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
+    "rules": {
+        "min_alt": 10,
+        "max_ref": 3,
+        "spike:D614G": "not ref"
+    }
+}

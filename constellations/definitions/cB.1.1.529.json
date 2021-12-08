@@ -1,5 +1,5 @@
 {
-    "label": "Omicron (B.1.1.529-like)",
+    "label": "Possible Omicron (B.1.1.529-like)",
     "description": "B.1.1.529 lineage defining mutations",
     "sources": [
     ],
@@ -8,70 +8,61 @@
         "Pango_lineages": [
             "B.1.1.529"
         ],
-        "WHO_label": "Omicron",
 	"mrca_lineage": "B.1.1.529",
-        "representative_genome": ""
+        "representative_genome": "",
+        "lineage_name": "B.1.1.529",
+        "incompatible_lineage_calls": [
+            "BA.1",
+            "BA.2"
+        ]
     },
     "tags": [
         "B.1.1.529"
     ],
     "sites": [
-        "orf1a:K856R",
-        "nuc:C3037T",
-        "nuc:T5386G",
-        "orf1a:A2710T",
-        "orf1a:T3255I",
-        "orf1a:P3395H",
-        "orf1a:I3758V",
+        "nuc:C3037T # B.1 defining",
+        "orf1ab:T3255I",
+        "orf1ab:P3395H",
+        "orf1ab:SGF3675- # del:11288:9",
         "nuc:T13195C",
-        "orf1b:P314L",
-        "nuc:C15240T",
-        "orf1b:I1566V",
-        "spike:A67V",
-        "spike:T95I",
+        "orf1ab:P4715L # B.1 defining",
+        "orf1ab:I5967V",
+        "spike:G142D",
         "spike:G339D",
-        "spike:S371L",
         "spike:S373P",
+        "spike:S375F",
         "spike:K417N",
         "spike:N440K",
-        "spike:G446S",
         "spike:S477N",
         "spike:T478K",
         "spike:E484A",
         "spike:Q493R",
-        "spike:G496S",
         "spike:Q498R",
         "spike:N501Y",
         "spike:Y505H",
-        "spike:T547K",
-        "spike:D614G",
+        "spike:D614G # B.1 defining",
         "spike:H655Y",
         "spike:N679K",
         "spike:P681H",
         "spike:N764K",
         "spike:D796Y",
-        "spike:N856K",
         "spike:Q954H",
         "spike:N969K",
         "nuc:C25000T",
+        "nuc:C25584T",
         "e:T9I",
-        "m:D3G",
         "m:Q19E",
         "m:A63T",
         "nuc:A27259C",
         "nuc:C27807T",
-        "n:RG203KR"
+        "nuc:A28271T",
+        "n:P13L",
+        "del:28362:9 # n:ERS31-",
+        "n:RG203KR # B.1.1 defining"
     ],
-    "note": "We have included spike mutations S477N T478K E484A Q493R G496S Q498R N501Y, but these drop out in some early sequences. Additional rules have been added to compensate.",
+    "note": "Common mutations to the sublineages found",
     "rules": {
-        "min_alt": 30,
-        "max_ref": 5,
-        "spike:S477N": "not ref",
-        "spike:T478K": "not ref",
-        "spike:E484A": "not ref",
-        "spike:Q493R": "not ref",
-        "spike:G496S": "not ref",
-        "spike:Q498R": "not ref",
-        "spike:N501Y": "not ref"
+        "min_alt": 31,
+        "max_ref": 5
     }
 }
