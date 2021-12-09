@@ -20,12 +20,12 @@
         "B.1.1.529"
     ],
     "sites": [
-        "nuc:C3037T # B.1 defining",
+        "nuc:C3037T",
         "orf1ab:T3255I",
         "orf1ab:P3395H",
-        "orf1ab:SGF3675- # del:11288:9",
+        "orf1ab:SGF3675-",
         "nuc:T13195C",
-        "orf1ab:P4715L # B.1 defining",
+        "orf1ab:P4715L",
         "orf1ab:I5967V",
         "spike:G142D",
         "spike:G339D",
@@ -40,7 +40,7 @@
         "spike:Q498R",
         "spike:N501Y",
         "spike:Y505H",
-        "spike:D614G # B.1 defining",
+        "spike:D614G",
         "spike:H655Y",
         "spike:N679K",
         "spike:P681H",
@@ -57,12 +57,12 @@
         "nuc:C27807T",
         "nuc:A28271T",
         "n:P13L",
-        "del:28362:9 # n:ERS31-",
-        "n:RG203KR # B.1.1 defining"
+        "del:28362:9",
+        "n:RG203KR"
     ],
     "note": "Common mutations to the sublineages found",
     "rules": {
-        "min_alt": 31,
+        "min_alt": 28,
         "max_ref": 5
     }
 }

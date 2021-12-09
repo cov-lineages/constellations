@@ -34,20 +34,20 @@
         "orf1ab:T6564I",
         "nuc:A20055G",
         "spike:T19I",
-        "del:21633:9 # spike:LPPA24S",
-        "nuc:T22200G # spike:V231G # but this seems to be wrong aa ref allele",
+        "del:21633:9",
+        "nuc:T22200G",
         "spike:S371F",
         "spike:T376A",
         "spike:D405N",
         "spike:R408S",
-        "nuc:C26060T # orf3a:T233I # but this seems to be wrong aa ref allele",
+        "nuc:C26060T",
         "nuc:C26858T",
-        "orf6:D61L # GAT->CTC",
+        "orf6:D61L",
         "n:S413R"
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
-        "min_alt": 19,
+        "min_alt": 16,
         "max_ref": 3
     }
 }
