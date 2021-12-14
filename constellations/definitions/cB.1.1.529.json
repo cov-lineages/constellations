@@ -1,5 +1,5 @@
 {
-    "label": "Possible Omicron (B.1.1.529-like)",
+    "label": "Omicron (B.1.1.529-like)",
     "description": "B.1.1.529 lineage defining mutations",
     "sources": [
     ],
@@ -8,12 +8,14 @@
         "Pango_lineages": [
             "B.1.1.529"
         ],
+        "WHO_label": "Omicron",
 	"mrca_lineage": "B.1.1.529",
         "representative_genome": "",
         "lineage_name": "B.1.1.529",
         "incompatible_lineage_calls": [
             "BA.1",
-            "BA.2"
+            "BA.2",
+            "BA.3"
         ]
     },
     "tags": [
@@ -63,6 +65,7 @@
     "note": "Common mutations to the sublineages found",
     "rules": {
         "min_alt": 28,
-        "max_ref": 5
+        "max_ref": 5,
+        "spike:D614G": "not ref"
     }
 }

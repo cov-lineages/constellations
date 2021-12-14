@@ -1,19 +1,19 @@
 {
-    "label": "Probable Omicron (BA.1-like)",
-    "description": "BA.1 lineage defining mutations with lower thresholds to handle lower quality consensus sequences",
+    "label": "Probable Omicron (B.1.1.529-like)",
+    "description": "B.1.1.529 lineage defining mutations with lower thresholds to handle lower quality consensus sequences",
     "sources": [
     ],
     "type": "variant",
     "variant": {
         "Pango_lineages": [
-            "BA.1"
+            "B.1.1.529"
         ],
         "WHO_label": "Omicron",
-	"mrca_lineage": "BA.1",
+	"mrca_lineage": "B.1.1.529",
         "representative_genome": ""
     },
     "tags": [
-        "BA.1"
+        "B.1.1.529"
     ],
     "sites": [
         "nuc:C3037T",
@@ -54,30 +54,11 @@
         "nuc:A28271T",
         "n:P13L",
         "del:28362:9",
-        "n:RG203KR",
-        "orf1ab:K856R",
-        "del:6513:3",
-        "nuc:T5386G",
-        "orf1ab:A2710T",
-        "orf1ab:I3758V",
-        "nuc:C15240T",
-        "spike:A67V",
-        "del:21765:6",
-        "spike:T95I",
-        "del:21987:9",
-        "del:22194:3",
-        "nuc:22205+GAGCCAGAA",
-        "spike:S371L",
-        "spike:G446S",
-        "spike:G496S",
-        "spike:T547K",
-        "spike:N856K",
-        "spike:L981F",
-        "m:D3G"
+        "n:RG203KR"
     ],
     "note": "This file has been added to allow probable calls to be made, even when the incoming consensus pipeline calls for ref in lower quality regions",
     "rules": {
-        "min_alt": 25,
-        "max_ref": 18
+        "min_alt": 18,
+        "max_ref": 10
     }
 }
