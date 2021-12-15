@@ -1,5 +1,5 @@
 {
-    "label": "BA.2-like",
+    "label": "Omicron (BA.2-like)",
     "description": "BA.2 lineage defining mutations",
     "sources": [
     ],
@@ -8,6 +8,7 @@
         "Pango_lineages": [
             "BA.2"
         ],
+        "WHO_label": "Omicron",
 	"mrca_lineage": "BA.2",
         "lineage_name": "BA.2",
         "parent_lineage": "B.1.1.529",
