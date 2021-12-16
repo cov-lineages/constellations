@@ -65,7 +65,7 @@
     "note": "Common mutations to the sublineages found",
     "rules": {
       "default": {
-        "min_alt": 28,
+        "min_alt": 25,
         "max_ref": 5,
         "spike:D614G": "not ref"
       },
