@@ -11,6 +11,7 @@
 	"mrca_lineage": "AY.4.2",
         "lineage_name": "AY.4.2",
         "parent_lineage": "AY.4",
+	"PHE_label": "VUI-21OCT-01",
 	"representative_genome": ""
     },
     "tags": [
