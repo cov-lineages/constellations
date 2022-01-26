@@ -9,13 +9,10 @@
             "B.1.1.529"
         ],
         "WHO_label": "Omicron",
-	"mrca_lineage": "",
+	"mrca_lineage": "None",
         "representative_genome": "",
         "lineage_name": "B.1.1.529",
         "incompatible_lineage_calls": [
-            "BA.1",
-            "BA.2",
-            "BA.3"
         ]
     },
     "tags": [
