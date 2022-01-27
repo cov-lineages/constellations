@@ -40,10 +40,17 @@
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
+      "default": {
         "min_alt": 11,
         "max_ref": 3,
         "nuc:C832T": "not ref",
-        "nuc:C11235T": "not ref",
-        "orf1ab:I5967V": "not ref"
+        "nuc:C11235T": "not ref"
+      },
+      "Probable": {
+        "min_alt": 6,
+        "max_ref": 8,
+        "nuc:C832T": "not ref",
+        "nuc:C11235T": "not ref"
+      }
     }
 }
