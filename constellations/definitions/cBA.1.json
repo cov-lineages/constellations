@@ -19,10 +19,12 @@
     ],
     "sites": [
         "orf1ab:K856R",
-        "del:6513:3",
         "nuc:T5386G",
+        "del:6513:3",
         "orf1ab:A2710T",
+        "orf1ab:L3674F",
         "orf1ab:I3758V",
+        "nuc:C13195T",
         "nuc:C15240T",
         "spike:A67V",
         "del:21765:6",
@@ -44,12 +46,12 @@
     "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
     "rules": {
       "default": {
-        "min_alt": 12,
+        "min_alt": 14,
         "max_ref": 3,
         "nuc:T5386G": "not ref"
       },
       "Probable": {
-        "min_alt": 8,
+        "min_alt": 10,
         "max_ref": 8,
         "nuc:T5386G": "not ref"
       }

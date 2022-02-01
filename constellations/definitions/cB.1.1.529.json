@@ -23,7 +23,6 @@
         "orf1ab:T3255I",
         "orf1ab:P3395H",
         "orf1ab:SGF3675-",
-        "nuc:T13195C",
         "orf1ab:P4715L",
         "orf1ab:I5967V",
         "spike:G142D",
@@ -60,12 +59,12 @@
     "note": "Common mutations to the sublineages found",
     "rules": {
       "default": {
-        "min_alt": 23,
+        "min_alt": 22,
         "max_ref": 5,
         "spike:D614G": "not ref"
       },
       "Probable": {
-        "min_alt": 15,
+        "min_alt": 12,
         "max_ref": 14
       }
     }
