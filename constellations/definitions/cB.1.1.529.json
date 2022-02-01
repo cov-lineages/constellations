@@ -47,8 +47,6 @@
         "spike:D796Y",
         "spike:Q954H",
         "spike:N969K",
-        "nuc:C25000T",
-        "nuc:C25584T",
         "e:T9I",
         "m:Q19E",
         "m:A63T",
@@ -62,7 +60,7 @@
     "note": "Common mutations to the sublineages found",
     "rules": {
       "default": {
-        "min_alt": 25,
+        "min_alt": 23,
         "max_ref": 5,
         "spike:D614G": "not ref"
       },
