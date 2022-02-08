@@ -19,10 +19,12 @@
     ],
     "sites": [
         "orf1ab:K856R",
-        "del:6513:3",
         "nuc:T5386G",
+        "del:6513:3",
         "orf1ab:A2710T",
+        "orf1ab:L3674F",
         "orf1ab:I3758V",
+        "nuc:T13195C",
         "nuc:C15240T",
         "spike:A67V",
         "del:21765:6",
@@ -36,20 +38,22 @@
         "spike:T547K",
         "spike:N856K",
         "spike:L981F",
+        "nuc:C25000T",
+        "nuc:C25584T",
         "m:D3G"
     ],
     "note": "Unique mutations for sublineage",
     "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
     "rules": {
       "default": {
-        "min_alt": 10,
+        "min_alt": 14,
         "max_ref": 3,
-        "spike:D614G": "not ref"
+        "nuc:T5386G": "not ref"
       },
       "Probable": {
-        "min_alt": 6,
+        "min_alt": 10,
         "max_ref": 8,
-        "spike:D614G": "not ref"
+        "nuc:T5386G": "not ref"
       }
     }
 }
