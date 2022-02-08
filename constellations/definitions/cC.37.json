@@ -38,7 +38,7 @@
 		"N:G214C"
     ],
     "rules": {
-        "min_alt": 5,
+        "min_alt": 9,
         "max_ref": 3
     }
 }
