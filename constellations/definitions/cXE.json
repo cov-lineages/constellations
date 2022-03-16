@@ -1,0 +1,62 @@
+{
+    "label": "Omicron (XE-like)",
+    "description": "XE lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "XE"
+        ],
+        "WHO_label": "Omicron",
+	    "mrca_lineage": "XE",
+        "lineage_name": "XE",
+        "parent_lineage": "B.1.1.529",
+        "representative_genome": ""
+    },
+    "tags": [
+        "XE",
+        "GL2"
+    ],
+    "sites": [
+        "orf1ab:K856R",
+        "nuc:C3241T",
+        "nuc:T5386G",
+        "orf1ab:V1887I",
+        "del:6513:3",
+        "orf1ab:A2710T",
+        "nuc:C12880T",
+        "nuc:C14599T",
+        "nuc:C15714T",
+        "orf1ab:R5716C",
+        "orf1ab:T6564I",
+        "nuc:A20055G",
+        "spike:T19I",
+        "del:21633:9",
+        "nuc:T22200G",
+        "spike:S371F",
+        "spike:T376A",
+        "spike:D405N",
+        "spike:R408S",
+        "nuc:C25000T",
+        "nuc:C25584T",
+        "nuc:C26060T",
+        "nuc:C26858T",
+        "orf6:D61L",
+        "n:S413R"
+    ],
+    "note": "Unique mutations for sublineage",
+    "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
+    "rules": {
+      "default": {
+        "min_alt": 17,
+        "max_ref": 3,
+        "nuc:C14599": "not ref"
+      },
+      "Probable": {
+        "min_alt": 15,
+        "max_ref": 8,
+        "nuc:C14599": "not ref"
+      }
+    }
+}
