@@ -9,9 +9,8 @@
             "XE"
         ],
         "WHO_label": "Omicron",
-	    "mrca_lineage": "XE",
+	"mrca_lineage": "XE",
         "lineage_name": "XE",
-        "parent_lineage": "B.1.1.529",
         "representative_genome": ""
     },
     "tags": [
