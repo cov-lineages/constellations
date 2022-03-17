@@ -52,13 +52,11 @@
     "rules": {
       "default": {
         "min_alt": 18,
-        "max_ref": 3,
-        "orf1ab:R5716C": "not ref"
+        "max_ref": 3
       },
       "Probable": {
         "min_alt": 12,
-        "max_ref": 8,
-        "orf1ab:R5716C": "not ref"
+        "max_ref": 8
       }
     }
 }

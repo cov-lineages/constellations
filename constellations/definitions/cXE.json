@@ -50,13 +50,11 @@
     "rules": {
       "default": {
         "min_alt": 17,
-        "max_ref": 3,
-        "nuc:C14599": "not ref"
+        "max_ref": 3
       },
       "Probable": {
         "min_alt": 15,
-        "max_ref": 8,
-        "nuc:C14599": "not ref"
+        "max_ref": 8
       }
     }
 }

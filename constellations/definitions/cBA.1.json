@@ -47,13 +47,11 @@
     "rules": {
       "default": {
         "min_alt": 14,
-        "max_ref": 3,
-        "nuc:T5386G": "not ref"
+        "max_ref": 3
       },
       "Probable": {
         "min_alt": 10,
-        "max_ref": 8,
-        "nuc:T5386G": "not ref"
+        "max_ref": 8
       }
     }
 }
