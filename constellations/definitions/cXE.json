@@ -1,6 +1,6 @@
 {
     "label": "Omicron (XE-like)",
-    "description": "XE lineage defining mutations",
+    "description": "XE recombinant lineage defining mutations",
     "sources": [
     ],
     "type": "variant",
@@ -9,6 +9,7 @@
             "XE"
         ],
         "WHO_label": "Omicron",
+	"parent_lineage": "XE-parent1",
 	"mrca_lineage": "XE",
         "lineage_name": "XE",
         "representative_genome": ""
