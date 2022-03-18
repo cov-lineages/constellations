@@ -18,9 +18,12 @@
         "XE",
         "GL2"
     ],
-    "note": "Unique mutations for sublineage",
+    "note": "Unique mutations for XE sublineage",
     "sites": [
+	"C14599T"
     ],
     "rules": {
+        "min_alt": 0,
+        "max_ref": 0
     }
 }
