@@ -17,12 +17,6 @@
     "note": "Shared mutations for BA2 parent",
     "note": "Likely breakpoint: between 10448 and 11287 (NSP5 or NSP6)",
     "sites": [
-        "orf1ab:L3027F",
-        "nuc:A9424G",
-        "orf1ab:T3090I",
-        "orf1ab:L3201F",
-        "nuc:C10198T",
-        "nuc:G10447A",
         "nuc:C15714T",
         "nuc:C12880T",
         "nuc:C15714T",
@@ -45,7 +39,7 @@
     ],
     "rules": {
       "default": {
-        "min_alt": 12,
+        "min_alt": 11,
         "max_ref": 3
       }
     }
