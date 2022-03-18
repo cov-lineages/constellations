@@ -5,8 +5,9 @@
     ],
     "type": "variant",
     "variant": {
-	      "mrca_lineage": "",
+	"mrca_lineage": "",
         "lineage_name": "XE-parent2",
+	"parent_lineage": "XE-parent1",
         "representative_genome": ""
     },
     "tags": [
