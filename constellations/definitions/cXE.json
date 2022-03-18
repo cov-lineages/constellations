@@ -20,7 +20,7 @@
     ],
     "note": "Unique mutations for XE sublineage",
     "sites": [
-	"C14599T"
+	"nuc:C14599T"
     ],
     "rules": {
         "min_alt": 0,
