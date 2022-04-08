@@ -52,7 +52,7 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 19,
+        "min_alt": 24,
         "max_ref": 5,
         "nuc:A27259C":"ref"
       },
