@@ -53,12 +53,11 @@
       "default": {
         "min_alt": 28,
         "max_ref": 5,
+        "s:Q493":"ref",
         "nuc:C26858":"ref",
-        "nuc:A27259":"ref",
         "nuc:G27788":"ref",
         "n:P151":"ref",
-        "m:D3":"alt",
-        "nuc:C25584T":"alt"
+        "m:D3":"alt"
       },
       "Probable": {
         "min_alt": 20,
