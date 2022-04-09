@@ -54,11 +54,13 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 20,
-        "max_ref": 3
+        "min_alt": 28,
+        "max_ref": 3,
+        "spike:Q493":"alt",
+        "nuc:G27788":"ref"
       },
       "Probable": {
-        "min_alt": 15,
+        "min_alt": 20,
         "max_ref": 8
       }
     }

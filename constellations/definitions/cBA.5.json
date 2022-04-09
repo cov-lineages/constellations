@@ -33,8 +33,8 @@
       "orf1ab:T6564I",
       "nuc:A20055G",
       "spike:T19I",
-      "del:21633:9",
-      "del:21765:6",
+      "s:HV69-",
+      "nuc:T22200G",
       "spike:V213G",
       "spike:S371F",
       "spike:T376A",
@@ -43,10 +43,9 @@
       "spike:F486V",
       "nuc:C25000T",
       "nuc:C25584T",
-      "orf3a:T223I",
+      "nuc:C26060T",
       "m:D3N",
-      "n:R203K",
-      "n:G204R",
+      "n:RG203KR",
       "n:S413R"
     ],
     "note": "Unique mutations for sublineage",
@@ -54,15 +53,15 @@
       "default": {
         "min_alt": 28,
         "max_ref": 5,
-        "nuc:C26858T":"ref",
-        "nuc:A27259C":"ref",
-        "nuc:G27788T":"ref",
-        "n:P151S":"ref",
-        "m:D3N":"alt",
+        "nuc:C26858":"ref",
+        "nuc:A27259":"ref",
+        "nuc:G27788":"ref",
+        "n:P151":"ref",
+        "m:D3":"alt",
         "nuc:C25584T":"alt"
       },
       "Probable": {
-        "min_alt": 17,
+        "min_alt": 20,
         "max_ref": 8
       }
     }

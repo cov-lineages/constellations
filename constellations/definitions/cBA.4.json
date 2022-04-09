@@ -19,7 +19,6 @@
     ],
     "sites": [
       "orf1ab:S135R",
-      "del:686:9",
       "orf1ab:T842I",
       "orf1ab:G1307S",
       "nuc:C4321T",
@@ -34,7 +33,8 @@
       "orf1ab:T6564I",
       "nuc:A20055G",
       "spike:T19I",
-      "del:21765:6",
+      "s:HV69-",
+      "nuc:T22200G",
       "spike:V213G",
       "spike:S371F",
       "spike:T376A",
@@ -42,30 +42,27 @@
       "spike:L452R",
       "spike:F486V",
       "nuc:C25000T",
-      "orf3a:T223I",
+      "nuc:C25584T",
+      "nuc:C26060T",
       "nuc:C26858T",
       "orf6:D61L",
       "nuc:G27788T",
       "n:P151S",
-      "n:R203K",
-      "n:G204R",
-      "n:S413R",
-      "del:21633:9"
+      "n:RG203KR",
+      "n:S413R"
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 28,
+        "min_alt": 30,
         "max_ref": 5,
         "m:D3N":"ref",
-        "nuc:C25584T":"ref",
-        "nsp4:L438":"ref",
         "s:Q493":"ref",
         "orf6:D61":"alt",
         "n:P151S":"alt"
       },
       "Probable": {
-        "min_alt": 17,
+        "min_alt": 20,
         "max_ref": 8
       }
     }
