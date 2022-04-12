@@ -58,7 +58,7 @@
         "max_ref": 5,
         "m:D3N":"ref",
         "s:Q493":"ref",
-        "orf6:D61":"alt",
+        "orf6:D61":"not ref",
         "n:P151S":"alt"
       },
       "Probable": {
