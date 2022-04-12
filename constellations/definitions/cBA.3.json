@@ -44,8 +44,8 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 11,
-        "max_ref": 3
+        "min_alt": 14,
+        "max_ref": 2
       },
       "Probable": {
         "min_alt": 6,
