@@ -23,6 +23,7 @@
         "del:6513:3",
         "orf1ab:A2710T",
         "orf1ab:L3674F",
+        "orf1ab:SGF3675-",
         "orf1ab:I3758V",
         "nuc:T13195C",
         "nuc:C15240T",
@@ -34,26 +35,26 @@
         "nuc:22205+GAGCCAGAA",
         "spike:S371L",
         "spike:G446S",
+        "spike:Q493R",
         "spike:G496S",
         "spike:T547K",
         "spike:N856K",
         "spike:L981F",
         "nuc:C25000T",
         "nuc:C25584T",
-        "m:D3G"
+        "m:D3G",
+        "n:RG203KR"
     ],
     "note": "Unique mutations for sublineage",
     "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
     "rules": {
       "default": {
         "min_alt": 14,
-        "max_ref": 3,
-        "nuc:T5386G": "not ref"
+        "max_ref": 3
       },
       "Probable": {
         "min_alt": 10,
-        "max_ref": 8,
-        "nuc:T5386G": "not ref"
+        "max_ref": 8
       }
     }
 }

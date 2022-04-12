@@ -22,12 +22,14 @@
         "nuc:C832T",
         "orf1ab:G1307S",
         "orf1ab:T3090I",
+        "orf1ab:SGF3675-",
         "nuc:G10447A",
         "nuc:C11235T",
         "nuc:C12880T",
         "nuc:C15714T",
         "orf1ab:I5967V",
         "spike:A67V",
+        "spike:Q493R",
         "del:21765:6",
         "del:21987:9",
         "del:22194:3",
@@ -36,21 +38,18 @@
         "spike:G446S",
         "orf3a:T223V",
         "nuc:C26858T",
+        "n:RG203KR",
         "n:S413R"
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
         "min_alt": 11,
-        "max_ref": 3,
-        "nuc:C832T": "not ref",
-        "nuc:C11235T": "not ref"
+        "max_ref": 3
       },
       "Probable": {
         "min_alt": 6,
-        "max_ref": 8,
-        "nuc:C832T": "not ref",
-        "nuc:C11235T": "not ref"
+        "max_ref": 8
       }
     }
 }

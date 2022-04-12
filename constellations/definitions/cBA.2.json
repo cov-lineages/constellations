@@ -26,6 +26,7 @@
         "nuc:A9424G",
         "orf1ab:T3090I",
         "orf1ab:L3201F",
+        "orf1ab:SGF3675-",
         "nuc:C10198T",
         "nuc:G10447A",
         "nuc:C15714T",
@@ -41,24 +42,27 @@
         "spike:T376A",
         "spike:D405N",
         "spike:R408S",
+        "spike:Q493R",
         "nuc:C25000T",
         "nuc:C25584T",
         "nuc:C26060T",
         "nuc:C26858T",
         "orf6:D61L",
-        "n:S413R"
+        "n:RG203KR",
+        "n:S413R"        
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 18,
+        "min_alt": 28,
         "max_ref": 3,
-        "orf1ab:R5716C": "not ref"
+        "spike:Q493":"alt",
+        "n:P151":"ref",
+        "nuc:G27788":"ref"
       },
       "Probable": {
-        "min_alt": 12,
-        "max_ref": 8,
-        "orf1ab:R5716C": "not ref"
+        "min_alt": 20,
+        "max_ref": 8
       }
     }
 }

@@ -22,7 +22,6 @@
         "nuc:C3037T",
         "orf1ab:T3255I",
         "orf1ab:P3395H",
-        "orf1ab:SGF3675-",
         "orf1ab:P4715L",
         "orf1ab:I5967V",
         "spike:G142D",
@@ -34,7 +33,6 @@
         "spike:S477N",
         "spike:T478K",
         "spike:E484A",
-        "spike:Q493R",
         "spike:Q498R",
         "spike:N501Y",
         "spike:Y505H",
@@ -53,8 +51,7 @@
         "nuc:C27807T",
         "nuc:A28271T",
         "n:P13L",
-        "del:28362:9",
-        "n:RG203KR"
+        "del:28362:9"
     ],
     "note": "Common mutations to the sublineages found",
     "rules": {
