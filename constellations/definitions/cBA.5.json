@@ -58,10 +58,6 @@
         "nuc:G27788":"ref",
         "n:P151":"ref",
         "m:D3":"alt"
-      },
-      "Probable": {
-        "min_alt": 20,
-        "max_ref": 8
       }
     }
 }

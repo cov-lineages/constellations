@@ -60,10 +60,6 @@
         "s:Q493":"ref",
         "orf6:D61":"not ref",
         "n:P151S":"alt"
-      },
-      "Probable": {
-        "min_alt": 20,
-        "max_ref": 8
       }
     }
 }

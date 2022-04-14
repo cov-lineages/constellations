@@ -39,7 +39,7 @@
     ],
     "rules": {
       "default": {
-        "min_alt": 11,
+        "min_alt": 9,
         "max_ref": 3
       }
     }
