@@ -1,0 +1,31 @@
+{
+    "label": "XE-parent1",
+    "description": "Majority parent of XE recombinant lineage",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+	"mrca_lineage": "",
+        "lineage_name": "XE-parent1",
+	"parent_lineage": "B.1.1.529",
+        "representative_genome": ""
+    },
+    "tags": [
+        "XE",
+        "GL2"
+    ],
+    "note": "Shared mutations for BA1 parent",
+    "note": "Likely breakpoint: between 10448 and 11287 (NSP5 or NSP6)",
+    "sites": [
+        "orf1ab:K856R",
+        "nuc:T5386G",
+        "del:6513:3",
+        "orf1ab:A2710T"
+    ],
+    "rules": {
+      "default": {
+        "min_alt": 3,
+        "max_ref": 0
+      }
+    }
+}
