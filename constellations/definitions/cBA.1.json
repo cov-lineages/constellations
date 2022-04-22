@@ -49,8 +49,8 @@
     "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
     "rules": {
       "default": {
-        "min_alt": 14,
-        "max_ref": 3
+        "min_alt": 17,
+        "max_ref": 2
       },
       "Probable": {
         "min_alt": 10,
