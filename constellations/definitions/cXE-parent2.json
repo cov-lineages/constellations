@@ -19,7 +19,6 @@
     "sites": [
         "nuc:C15714T",
         "nuc:C12880T",
-        "nuc:C15714T",
         "orf1ab:R5716C",
         "orf1ab:T6564I",
         "nuc:A20055G",
@@ -39,7 +38,7 @@
     ],
     "rules": {
       "default": {
-        "min_alt": 9,
+        "min_alt": 8,
         "max_ref": 3
       }
     }

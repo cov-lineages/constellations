@@ -34,7 +34,6 @@
       "nuc:A20055G",
       "spike:T19I",
       "s:HV69-",
-      "nuc:T22200G",
       "spike:V213G",
       "spike:S371F",
       "spike:T376A",
@@ -51,7 +50,7 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 28,
+        "min_alt": 27,
         "max_ref": 5,
         "s:Q493":"ref",
         "nuc:C26858":"ref",

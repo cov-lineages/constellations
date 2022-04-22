@@ -22,9 +22,10 @@
     "sites": [
     "nuc:C3241T",
     "nuc:T5386G",
-	"nuc:C14599T",
+    "nuc:C14599T",
     "nuc:C12880T",
-    "nuc:A29510C"
+    "nuc:A29510C",
+    "nuc:C14599T"
     ],
     "rules": {
         "min_alt": 2,

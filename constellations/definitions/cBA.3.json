@@ -27,7 +27,6 @@
         "nuc:C11235T",
         "nuc:C12880T",
         "nuc:C15714T",
-        "orf1ab:I5967V",
         "spike:A67V",
         "spike:Q493R",
         "del:21765:6",
@@ -44,7 +43,7 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 14,
+        "min_alt": 13,
         "max_ref": 2
       },
       "Probable": {

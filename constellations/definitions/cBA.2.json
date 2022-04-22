@@ -29,7 +29,6 @@
         "orf1ab:SGF3675-",
         "nuc:C10198T",
         "nuc:G10447A",
-        "nuc:C15714T",
         "nuc:C12880T",
         "nuc:C15714T",
         "orf1ab:R5716C",
@@ -54,7 +53,7 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 28,
+        "min_alt": 27,
         "max_ref": 3,
         "spike:Q493":"alt",
         "n:P151":"ref",
