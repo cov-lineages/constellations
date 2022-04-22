@@ -38,7 +38,7 @@
     ],
     "rules": {
       "default": {
-        "min_alt": 1,
+        "min_alt": 8,
         "max_ref": 3
       }
     }
