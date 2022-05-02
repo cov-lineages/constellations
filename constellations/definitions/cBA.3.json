@@ -45,10 +45,6 @@
       "default": {
         "min_alt": 13,
         "max_ref": 2
-      },
-      "Probable": {
-        "min_alt": 6,
-        "max_ref": 8
       }
     }
 }
