@@ -58,10 +58,6 @@
         "spike:Q493":"alt",
         "n:P151":"ref",
         "nuc:G27788":"ref"
-      },
-      "Probable": {
-        "min_alt": 20,
-        "max_ref": 8
       }
     }
 }
