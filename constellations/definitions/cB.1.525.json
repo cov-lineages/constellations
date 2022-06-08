@@ -9,8 +9,8 @@
         "Pango_lineages": [
             "B.1.525"
         ],
-	    "mrca_lineage": "B.1.525",
-        "PHE_label": "VUI-21FEB-03",
+        "mrca_lineage": "B.1.525",
+        "PHE_label": "V-21FEB-03",
         "WHO_label": "Eta",
         "representative_genome": ""
     },
@@ -20,7 +20,8 @@
         "VUI202102/03",
         "Eta",
         "G/484K.V3",
-        "20A"
+        "20A",
+        "V-21FEB-03"
     ],
     "sites": [
         "nuc:C1498T",

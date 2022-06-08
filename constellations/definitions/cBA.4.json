@@ -12,10 +12,12 @@
 	      "mrca_lineage": "BA.4",
         "lineage_name": "BA.4",
         "parent_lineage": "B.1.1.529",
+        "PHE_label": "V-22APR-03",
         "representative_genome": ""
     },
     "tags": [
-        "BA.4"
+        "BA.4",
+        "V-22APR-03"
     ],
     "sites": [
       "orf1ab:S135R",

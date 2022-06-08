@@ -10,13 +10,14 @@
         "Pango_lineages": [
             "B.1.617.1"
         ],
-	    "mrca_lineage": "B.1.617.1",
-        "PHE_label": "VUI-21APR-01",
+        "mrca_lineage": "B.1.617.1",
+        "PHE_label": "V-21APR-01",
         "representative_genome": ""
     },
     "tags": [
         "B.1.617.1",
-        "VUI-21APR-01"
+        "VUI-21APR-01",
+        "V-21APR-01"
     ],
     "sites": [
         "nuc:C3457T",

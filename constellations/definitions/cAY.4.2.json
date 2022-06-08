@@ -6,16 +6,17 @@
     "type": "variant",
     "variant": {
 	"Pango_lineages": [
-	    "AY.4.2"
+        "AY.4.2"
 	],
 	"mrca_lineage": "AY.4.2",
         "lineage_name": "AY.4.2",
         "parent_lineage": "AY.4",
-	"PHE_label": "VUI-21OCT-01",
+	"PHE_label": "V-21OCT-01",
 	"representative_genome": ""
     },
     "tags": [
-	"AY.4.2"
+	"AY.4.2",
+    "V-21OCT-01"
     ],
     "sites": [
         "nuc:T17040C",

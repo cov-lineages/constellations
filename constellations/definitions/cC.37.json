@@ -10,11 +10,13 @@
         ],
 	    "mrca_lineage": "C.37",
 	    "WHO_label": "Lambda",
+		"PHE_label": "V-21JUN-01",
         "representative_genome": ""
     },
     "tags": [
         "Lambda",
-        "C.37"
+        "C.37",
+		"V-21JUN-01"
     ],
     "sites": [
 		"ORF1a:T1246I",
