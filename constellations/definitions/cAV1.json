@@ -9,11 +9,12 @@
 			"AV.1"
 		],
 		"mrca_lineage": "AV.1",
-		"PHE_label": "VOC-20-DEC-01",
+		"PHE_label": "VOC-20DEC-01",
 		"representative_genome": ""
 	},
 	"tags": [
-		"AV.1"
+		"AV.1",
+		"VOC-20DEC-01"
 	],
 	"sites": [
 		"s:D80G",

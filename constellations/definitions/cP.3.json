@@ -10,15 +10,16 @@
         "Pango_lineages": [
             "P.3"
         ],
-	    "mrca_lineage": "P.3",
-        "PHE_label": "VUI-21MAR-02",
+        "mrca_lineage": "P.3",
+        "PHE_label": "V-21MAR-02",
         "WHO_label": "Theta",
         "representative_genome": ""
     },
     "tags": [
         "P.3",
         "VUI-21MAR-02",
-        "VUI202103/02"
+        "VUI202103/02",
+        "V-21MAR-02"
     ],
     "sites": [
         "nsp3:D736G",

@@ -9,13 +9,15 @@
             "BA.2"
         ],
         "WHO_label": "Omicron",
-	"mrca_lineage": "BA.2",
+        "mrca_lineage": "BA.2",
         "lineage_name": "BA.2",
         "parent_lineage": "B.1.1.529",
+        "PHE_label": "VOC-22JAN-01",
         "representative_genome": ""
     },
     "tags": [
-        "BA.2"
+        "BA.2",
+        "VOC-22JAN-01"
     ],
     "sites": [
         "orf1ab:S135R",

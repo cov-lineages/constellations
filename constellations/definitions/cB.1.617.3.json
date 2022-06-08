@@ -10,12 +10,13 @@
             "B.1.617.3"
         ],
 	    "mrca_lineage": "B.1.617.3",
-        "PHE_label": "VUI-21APR-03",
+        "PHE_label": "V-21APR-03",
         "representative_genome": ""
     },
     "tags": [
         "B.1.617.3",
-        "VUI-21APR-03"
+        "VUI-21APR-03",
+        "V-21APR-03"
     ],
     "sites": [
         "nuc:C835T",

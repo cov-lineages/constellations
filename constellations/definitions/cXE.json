@@ -9,14 +9,16 @@
             "XE"
         ],
         "WHO_label": "Omicron",
-	"parent_lineage": "XE-parent2",
-	"mrca_lineage": "XE",
+        "parent_lineage": "XE-parent2",
+        "mrca_lineage": "XE",
+        "PHE_label": "V-22APR-02",
         "lineage_name": "XE",
         "representative_genome": ""
     },
     "tags": [
         "XE",
-        "GL2"
+        "GL2",
+        "V-22APR-02"
     ],
     "note": "Unique mutations for XE sublineage",
     "sites": [
