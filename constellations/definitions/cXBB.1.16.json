@@ -1,0 +1,32 @@
+{
+    "label": "Omicron (XBB.1.16-like)",
+    "description": "XBB.1.16 lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "XBB.1.16"
+        ],
+        "WHO_label": "Omicron",
+        "parent_lineage": "XBB.1",
+        "mrca_lineage": "XBB.1.16",
+        "lineage_name": "XBB.1.16",
+        "representative_genome": ""
+    },
+    "tags": [
+        "XBB.1.16"
+    ],
+    "note": "Unique mutations for XBB.1.16 sublineage",
+    "sites": [
+        "orf1b:D1746Y",
+        "spike:E180V",
+        "nuc:T28297C",
+        "nuc:A28447G",
+        "nuc:C29386T"
+    ],
+    "rules": {
+        "min_alt": 3,
+        "max_ref": 1
+    }
+}
