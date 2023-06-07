@@ -1,0 +1,27 @@
+{
+    "label": "XBB-parent2",
+    "description": "Minority parent of XBB recombinant lineage",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+	"mrca_lineage": "",
+        "lineage_name": "XBB-parent2",
+	    "parent_lineage": "XBB-parent1",
+        "representative_genome": ""
+    },
+    "tags": [
+        "XBB"
+    ],
+    "note": "Shared mutations with BA.2.10.1 parent",
+    "note": "Likely breakpoint: ~ S:446",
+    "sites": [
+        "orf1b:S959P"
+    ],
+    "rules": {
+      "default": {
+        "min_alt": 0,
+        "max_ref": 1
+      }
+    }
+}

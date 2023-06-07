@@ -1,0 +1,30 @@
+{
+    "label": "Omicron (XBB.1-like)",
+    "description": "XBB.1 lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "XBB.1"
+        ],
+        "WHO_label": "Omicron",
+        "parent_lineage": "XBB",
+        "mrca_lineage": "XBB.1",
+        "lineage_name": "XBB.1",
+        "representative_genome": ""
+    },
+    "tags": [
+        "XBB.1"
+    ],
+    "note": "Unique mutations for XBB.1 sublineage",
+    "sites": [
+        "spike:R408S",
+        "spike:K417N",
+        "orf8:G8*"
+    ],
+    "rules": {
+        "min_alt": 2,
+        "max_ref": 0
+    }
+}

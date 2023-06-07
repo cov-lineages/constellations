@@ -52,8 +52,8 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 27,
-        "max_ref": 5,
+        "min_alt": 25,
+        "max_ref": 4,
         "s:Q493":"ref",
         "nuc:C26858":"ref",
         "nuc:G27788":"ref",

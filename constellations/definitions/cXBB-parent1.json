@@ -1,0 +1,31 @@
+{
+    "label": "XBB-parent1",
+    "description": "Majority parent of XBB recombinant lineage",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+	"mrca_lineage": "",
+        "lineage_name": "XBB-parent1",
+	    "parent_lineage": "BA.2",
+        "representative_genome": ""
+    },
+    "tags": [
+        "XBB"
+    ],
+    "note": "Shared mutations with BA.2.75 parent",
+    "note": "Likely breakpoint: ~ S:446",
+    "sites": [
+        "spike:G339H",
+        "spike:G446S",
+        "spike:N460K",
+        "e:T11A",
+        "nuc:C25416T"
+    ],
+    "rules": {
+      "default": {
+        "min_alt": 2,
+        "max_ref": 2
+      }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "label": "Omicron (XBB.1.5-like)",
+    "description": "XBB.1.5 lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "XBB.1.5"
+        ],
+        "WHO_label": "Omicron",
+        "parent_lineage": "XBB.1",
+        "mrca_lineage": "XBB.1.5",
+        "lineage_name": "XBB.1.5",
+        "representative_genome": ""
+    },
+    "tags": [
+        "XBB.1.5"
+    ],
+    "note": "Unique mutations for XBB.1.5 sublineage",
+    "sites": [
+        "nuc:T17124C",
+        "spike:G252V",
+        "spike:F486P"
+    ],
+    "rules": {
+        "min_alt": 2,
+        "max_ref": 0,
+        "spike:F486":"alt"
+    }
+}

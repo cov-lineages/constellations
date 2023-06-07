@@ -28,7 +28,6 @@
         "spike:G339D",
         "spike:S373P",
         "spike:S375F",
-        "spike:K417N",
         "spike:N440K",
         "spike:S477N",
         "spike:T478K",
@@ -57,7 +56,7 @@
     "rules": {
       "default": {
         "min_alt": 22,
-        "max_ref": 2,
+        "max_ref": 3,
         "spike:D614G": "not ref"
       },
       "Probable": {

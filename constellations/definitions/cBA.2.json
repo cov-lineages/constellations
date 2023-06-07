@@ -21,7 +21,7 @@
     ],
     "sites": [
         "orf1ab:S135R",
-	"orf1ab:T842I",
+	    "orf1ab:T842I",
         "orf1ab:G1307S",
         "nuc:C4321T",
         "orf1ab:L3027F",
@@ -38,15 +38,14 @@
         "nuc:A20055G",
         "spike:T19I",
         "del:21633:9",
-        "nuc:T22200G",
+        "spike:V213G",
         "spike:S371F",
         "spike:T376A",
         "spike:D405N",
-        "spike:R408S",
         "spike:Q493R",
+        "orf3a:T223I",
         "nuc:C25000T",
         "nuc:C25584T",
-        "nuc:C26060T",
         "nuc:C26858T",
         "orf6:D61L",
         "n:RG203KR",
@@ -55,11 +54,8 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 27,
-        "max_ref": 3,
-        "spike:Q493":"alt",
-        "n:P151":"ref",
-        "nuc:G27788":"ref"
+        "min_alt": 23,
+        "max_ref": 4
       }
     }
 }
