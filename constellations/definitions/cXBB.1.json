@@ -24,7 +24,7 @@
         "orf8:G8*"
     ],
     "rules": {
-        "min_alt": 1,
-        "max_ref": 1
+        "min_alt": 2,
+        "max_ref": 0
     }
 }

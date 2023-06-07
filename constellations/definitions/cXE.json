@@ -30,7 +30,7 @@
     "nuc:C14599T"
     ],
     "rules": {
-        "min_alt": 2,
+        "min_alt": 3,
         "max_ref": 0
     }
 }

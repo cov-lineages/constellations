@@ -21,7 +21,7 @@
     "rules": {
       "default": {
         "min_alt": 0,
-        "max_ref": 0
+        "max_ref": 1
       }
     }
 }

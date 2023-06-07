@@ -56,7 +56,7 @@
     "rules": {
       "default": {
         "min_alt": 22,
-        "max_ref": 2,
+        "max_ref": 3,
         "spike:D614G": "not ref"
       },
       "Probable": {
