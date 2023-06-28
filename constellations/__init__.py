@@ -1,3 +1,3 @@
 _program = "constellations"
-__version__ = "v0.1.10"
+__version__ = "v0.1.12"
 
