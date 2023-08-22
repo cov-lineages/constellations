@@ -96,8 +96,8 @@
         "del:23008:3:0.600000"
     ],
     "rules": {
-        "min_alt": 65,
-        "max_ref": 3
+        "min_alt": 45,
+        "max_ref": 10
     },
     "notes": "Relative to BA.2 constellation definition, missing the following (mostly due to additional mutations changing the amino acid): orf1ab:L3201F, spike:E484A, spike:Q493R, spike:P681H, n:RG203KR"
 }
