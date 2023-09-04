@@ -40,7 +40,7 @@
         "del:11287:9"
     ],
     "rules": {
-        "min_alt": 6,
-        "max_ref": 3
+        "min_alt": 8,
+        "max_ref": 10
     }
 }

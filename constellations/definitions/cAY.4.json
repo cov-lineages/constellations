@@ -47,7 +47,7 @@
         "spike:T95I:0.967111"
     ],
     "rules": {
-        "min_alt": 12,
+        "min_alt": 10,
         "max_ref": 3,
         "orf1a:A2529V": "alt"
     }

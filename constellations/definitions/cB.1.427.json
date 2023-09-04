@@ -36,7 +36,7 @@
         "orf1b:P976L:0.948544"
     ],
     "rules": {
-        "min_alt": 5,
-        "max_ref": 3
+        "min_alt": 2,
+        "max_ref": 0
     }
 }

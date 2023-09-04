@@ -1,0 +1,81 @@
+{
+    "label": "Omicron (BA.2.86-like)",
+    "description": "BA.2.86 lineage defining mutations",
+    "sources": [
+    ],
+    "type": "variant",
+    "variant": {
+        "Pango_lineages": [
+            "BA.2.86"
+        ],
+        "WHO_label": "Omicron",
+        "mrca_lineage": "BA.2.86",
+        "lineage_name": "BA.2.86",
+        "parent_lineage": "BA.2"
+    },
+    "tags": [
+        "BA.2.86"
+    ],
+    "sites": [
+        "orf1a:A211D",
+        "orf1a:V1056L",
+        "orf1a:N2526S",
+        "nuc:C8293T",
+        "orf1a:A2710T",
+        "orf1a:V3593F",
+        "orf1a:T4175I",
+        "nuc:T13339C",
+        "nuc:T15756A",
+        "nuc:A18492G",
+        "spike:S50L",
+        "del:21765:6",
+        "spike:V127F",
+        "del:21991:3",
+        "spike:FR157SG",
+        "spike:L216F",
+        "spike:H245N",
+        "spike:A264D",
+        "spike:I332V",
+        "spike:G339H",
+        "spike:K356T",
+        "spike:R403K",
+        "spike:R408S",
+        "spike:K417N",
+        "spike:V445H",
+        "spike:G446S",
+        "spike:N450D",
+        "spike:L452W",
+        "spike:N460K",
+        "spike:N481K",
+        "spike:E484K",
+        "spike:F486P",
+        "spike:E554K",
+        "spike:A570V",
+        "spike:P621S",
+        "spike:P681R",
+        "spike:S939F",
+        "spike:P1143L",
+        "nuc:C25207T",
+        "m:D3H",
+        "m:T30A",
+        "nuc:C26681T",
+        "m:A104V",
+        "nuc:C27807T",
+        "n:Q229K"
+    ],
+    "intermediate": [
+        "nuc:C12815T:0.500000",
+        "nuc:21608+12:0.500000",
+        "nuc:C21622T:0.750000",
+        "spike:R21T:0.750000",
+        "del:22194:3:0.750000",
+        "del:23008:3:0.625000",
+        "m:Q19E:0.750000"
+    ],
+    "rules": {
+        "min_alt": 37,
+        "max_ref": 3
+    },
+    "notes": "Relative to BA.2 constellation definition, missing the following (mostly due to additional mutations changing the amino acid): orf1ab:L3201F, spike:G339D, spike:E484A, spike:Q493R, spike:P681H, m:Q19E"
+}
+
