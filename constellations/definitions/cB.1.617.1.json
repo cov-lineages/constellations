@@ -33,7 +33,7 @@
         "N:R203M"
     ],
     "rules": {
-        "min_alt": 5,
-        "max_ref": 3
+        "min_alt": 4,
+        "max_ref": 2
     }
 }

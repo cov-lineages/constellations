@@ -39,7 +39,7 @@
         "N:P80R"
     ],
     "rules": {
-        "min_alt": 8,
-        "max_ref": 3
+        "min_alt": 3,
+        "max_ref": 8
     }
 }

@@ -55,8 +55,8 @@
     "note": "Unique mutations for sublineage",
     "rules": {
       "default": {
-        "min_alt": 29,
-        "max_ref": 5,
+        "min_alt": 16,
+        "max_ref": 2,
         "m:D3N":"ref",
         "s:Q493":"ref",
         "orf6:D61":"not ref",
