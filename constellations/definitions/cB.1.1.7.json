@@ -9,14 +9,16 @@
         "Pango_lineages": [
             "B.1.1.7"
         ],
-	    "mrca_lineage": "B.1.1.7",
-        "PHE_label": "VOC-20DEC-01",
+        "mrca_lineage": "B.1.1.7",
+        "PHE_label": "V-20DEC-01",
         "WHO_label": "Alpha",
         "representative_genome": ""
     },
     "tags": [
         "B.1.1.7",
-        "VOC 202012/01"
+        "VOC 202012/01",
+		"VOC-20DEC-01",
+		"V-20DEC-01"
     ],
 	"sites": [
 		"nuc:C913T",

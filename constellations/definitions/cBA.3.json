@@ -9,7 +9,7 @@
             "BA.3"
         ],
         "WHO_label": "Omicron",
-	"mrca_lineage": "BA.3",
+        "mrca_lineage": "BA.3",
         "lineage_name": "BA.3",
         "parent_lineage": "B.1.1.529",
         "representative_genome": ""
@@ -42,9 +42,9 @@
     ],
     "note": "Unique mutations for sublineage",
     "rules": {
-      "default": {
+        "default": {
         "min_alt": 13,
         "max_ref": 2
-      }
+        }
     }
 }

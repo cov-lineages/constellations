@@ -8,8 +8,8 @@
         "Pango_lineages": [
             "C.37"
         ],
-	    "mrca_lineage": "C.37",
-	    "WHO_label": "Lambda",
+        "mrca_lineage": "C.37",
+        "WHO_label": "Lambda",
 		"PHE_label": "V-21JUN-01",
         "representative_genome": ""
     },

@@ -9,8 +9,8 @@
 		"Pango_lineages": [
 			"B.1.351"        
 		],
-	    "mrca_lineage": "B.1.351",
-		"PHE_label": "VOC-20DEC-02",
+        "mrca_lineage": "B.1.351",
+		"PHE_label": "V-20DEC-02",
 		"WHO_label": "Beta",
 		"representative_genome": ""
     },
@@ -21,7 +21,8 @@
 		"Beta",
 		"501.V2",
 		"20H",
-		"GH"
+		"GH",
+        "V-20DEC-02"
 	],
     "sites": [
         "NSP2:T85I",

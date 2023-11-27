@@ -9,7 +9,7 @@
             "BA.4"
         ],
         "WHO_label": "Omicron",
-	      "mrca_lineage": "BA.4",
+        "mrca_lineage": "BA.4",
         "lineage_name": "BA.4",
         "parent_lineage": "B.1.1.529",
         "PHE_label": "V-22APR-03",

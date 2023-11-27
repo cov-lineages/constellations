@@ -9,7 +9,7 @@
         "Pango_lineages": [
             "B.1.617.3"
         ],
-	    "mrca_lineage": "B.1.617.3",
+        "mrca_lineage": "B.1.617.3",
         "PHE_label": "V-21APR-03",
         "representative_genome": ""
     },

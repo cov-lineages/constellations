@@ -9,7 +9,7 @@
         "Pango_lineages": [
             "B.1.1.7"
         ],
-	    "mrca_lineage": "B.1.1.7",
+        "mrca_lineage": "B.1.1.7",
         "representative_genome": ""
     },
     "tags": [
@@ -28,7 +28,7 @@
 		"nuc:T16176C",
 		"s:HV69-",
 		"s:Y144-",
-        	"S:E484K",
+        "S:E484K",
 		"s:N501Y",
 		"s:A570D",
 		"s:P681H",
