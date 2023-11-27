@@ -50,9 +50,9 @@
     "note": "Unique mutations for sublineage",
     "note2": "Requires ancestral mutation so scorpio tie breaks correctly",
     "rules": {
-      "default": {
+        "default": {
         "min_alt": 17,
         "max_ref": 2
-      }
+        }
     }
 }

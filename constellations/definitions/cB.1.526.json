@@ -9,7 +9,7 @@
         "Pango_lineages": [
             "B.1.526"
         ],
-	    "mrca_lineage": "B.1.526",
+        "mrca_lineage": "B.1.526",
         "WHO_label": "Iota",
         "representative_genome": ""
     },

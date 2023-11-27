@@ -7,7 +7,7 @@
     "variant": {
 	"mrca_lineage": "",
         "lineage_name": "XBB-parent1",
-	    "parent_lineage": "BA.2",
+      "parent_lineage": "BA.2",
         "representative_genome": ""
     },
     "tags": [

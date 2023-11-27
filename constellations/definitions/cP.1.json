@@ -10,15 +10,16 @@
         "Pango_lineages": [
             "P.1"
         ],
-	    "mrca_lineage": "P.1",
-        "PHE_label": "VOC-21JAN-02",
+        "mrca_lineage": "P.1",
+        "PHE_label": "V-21JAN-02",
         "WHO_label": "Gamma",
         "representative_genome": ""
     },
     "tags": [
         "P.1",
         "VOC-21JAN-02",
-        "VOC202101/02"
+        "VOC202101/02",
+        "V-21JAN-02"
     ],
     "sites": [
         "nuc:T733C",

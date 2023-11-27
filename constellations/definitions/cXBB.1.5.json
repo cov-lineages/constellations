@@ -10,12 +10,14 @@
         ],
         "WHO_label": "Omicron",
         "parent_lineage": "XBB.1",
+        "PHE_label": "V-23JAN-01",
         "mrca_lineage": "XBB.1.5",
         "lineage_name": "XBB.1.5",
         "representative_genome": ""
     },
     "tags": [
-        "XBB.1.5"
+        "XBB.1.5",
+        "V-23JAN-01"
     ],
     "note": "Unique mutations for XBB.1.5 sublineage",
     "sites": [

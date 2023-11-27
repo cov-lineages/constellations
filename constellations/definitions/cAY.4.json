@@ -6,7 +6,7 @@
     "type": "variant",
     "variant": {
 	"Pango_lineages": [
-	    "AY.4"
+        "AY.4"
 	],
 	"mrca_lineage": "AY.4",
         "lineage_name": "AY.4",
