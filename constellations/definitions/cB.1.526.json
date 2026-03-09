@@ -43,8 +43,8 @@
         "nuc:A28271-"
     ],
     "rules": {
-        "min_alt": 11,
-        "max_ref": 7
+        "min_alt": 13,
+        "max_ref": 12
     }
 }
 

@@ -44,7 +44,7 @@
 		"N:S235F"
 	],
 	"rules": {
-		"min_alt": 15,
-		"max_ref": 3
+		"min_alt": 10,
+		"max_ref": 7
 	}
 }

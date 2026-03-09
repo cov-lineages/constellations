@@ -26,7 +26,7 @@
         "nuc:C29386T"
     ],
     "rules": {
-        "min_alt": 3,
-        "max_ref": 1
+        "min_alt": 2,
+        "max_ref": 2
     }
 }
